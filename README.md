@@ -1,5 +1,9 @@
 # roskins
 
+**Website on GitHub Pages:** https://defdefolt8-jpg.github.io/roskins/
+
+Pages publishes the static storefront from `docs/`. Registration, real listings, private messages and payments require the dynamic server and are unavailable on the static storefront. Rebuild it with `node scripts/build-pages.mjs` after changing the frontend.
+
 Russian P2P game-item classifieds with the approved charcoal/lime design.
 
 ## Implemented
