@@ -1,6 +1,6 @@
 
 const $=s=>document.querySelector(s);const icon=n=>`<svg aria-hidden="true"><use href="#${n}"/></svg>`;const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));const money=n=>Number(n).toLocaleString('ru-RU')+' ₽';const read=(k,f)=>{try{return JSON.parse(localStorage.getItem(k))??f}catch{return f}};const save=(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v))}catch{}};
-const games=[{name:'Adopt Me!',i:0},{name:'Pet Simulator 99',i:1},{name:'Murder Mystery 2',i:2},{name:'Blox Fruits',i:3},{name:'Roblox Avatar',i:4}];let samples=[];
+const games=[{name:'Adopt Me!',i:0},{name:'Pet Simulator 99',i:1},{name:'Murder Mystery 2',i:2},{name:'Blox Fruits',i:3}];let samples=[];
 let products=[],favs=[],cart=read('pm-cart-v2',[]),profile=null,me=null,myId=null,admin=false,authProvider='chatgpt',activeGame='',catalogMode='reference',catalogType='',onlyFav=false,q='',toastTimer,promo=null; if(!Array.isArray(cart))cart=[];const modal=$('#modal');
 function toast(s){$('#toast').textContent=s;$('#toast').hidden=false;clearTimeout(toastTimer);toastTimer=setTimeout(()=>$('#toast').hidden=true,4500)}
 function openModal(title,body){$('#modalTitle').textContent=title;$('#modalBody').innerHTML=body;if(!modal.open)modal.showModal()}

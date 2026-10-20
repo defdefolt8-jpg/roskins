@@ -44,4 +44,4 @@ Google login and email verification require the setup in [AUTH_SETUP.md](AUTH_SE
 
 ## Reference item catalog
 
-24 verified existing items: 12 Adopt Me pets, 6 Pet Simulator 99 pets and 6 Roblox avatar accessories/faces. Each uses its own locally bundled image, an item-source link and optional rarity/origin metadata. No inventory, sale availability, sellers or RUB prices are invented. Reference items and actual player listings are separate views, with pet/accessory filters and search. Provenance: [CATALOG_SOURCES.md](CATALOG_SOURCES.md).
+18 verified existing pets: 12 Adopt Me pets and 6 Pet Simulator 99 pets. Roblox avatar items are excluded. Each uses its own locally bundled image, an item-source link and optional rarity/origin metadata. No inventory, sale availability, sellers or RUB prices are invented. Reference items and actual player listings are separate views, with pet/accessory filters and search. Provenance: [CATALOG_SOURCES.md](CATALOG_SOURCES.md).

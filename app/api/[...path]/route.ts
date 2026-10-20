@@ -4,7 +4,7 @@ export const dynamic='force-dynamic';
 type DB=NonNullable<typeof env.DB>;
 const adminEmail=()=>String((env as unknown as Record<string,unknown>).MARKET_ADMIN_EMAIL||'').toLowerCase();
 const isAdmin=(email:string)=>Boolean(adminEmail())&&email.toLowerCase()===adminEmail();
-const GAMES=['Adopt Me!','Pet Simulator 99','Murder Mystery 2','Blox Fruits','Roblox Avatar'];
+const GAMES=['Adopt Me!','Pet Simulator 99','Murder Mystery 2','Blox Fruits'];
 const response=(body:unknown,status=200)=>Response.json(body,{status,headers:{'Cache-Control':'no-store','X-Content-Type-Options':'nosniff'}});
 class HttpError extends Error {constructor(public status:number,message:string){super(message)}}
 const bad=(s:number,m:string):never=>{throw new HttpError(s,m)};

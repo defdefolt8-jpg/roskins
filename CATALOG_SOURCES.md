@@ -20,9 +20,3 @@ The catalog contains existing game items, not seller offers. No sale prices, own
 - **Anime Lemur** (Pet Simulator 99): [item source](https://db.biggames.io/database/pets), [image](https://db.biggames.io/api/thumbnails/asset/104895576504873). BIG Games.
 - **Anime Unicorn** (Pet Simulator 99): [item source](https://db.biggames.io/database/pets), [image](https://db.biggames.io/api/thumbnails/asset/14968173600). BIG Games.
 - **Anime Wolf** (Pet Simulator 99): [item source](https://db.biggames.io/database/pets), [image](https://db.biggames.io/api/thumbnails/asset/77232609895314). BIG Games.
-- **Dominus Empyreus** (Roblox Avatar): [item source](https://www.roblox.com/catalog/21070012), [image](https://static.wikia.nocookie.net/roblox/images/c/c1/Dominus_Empyreus.png). Roblox Wiki / Roblox.
-- **Dominus Frigidus** (Roblox Avatar): [item source](https://www.roblox.com/catalog/48545806), [image](https://static.wikia.nocookie.net/roblox/images/4/42/Dominus_Frigidus.png). Roblox Wiki / Roblox.
-- **Dominus Infernus** (Roblox Avatar): [item source](https://www.roblox.com/catalog/31101391), [image](https://static.wikia.nocookie.net/roblox/images/0/01/Dominus_Infernus.png). Roblox Wiki / Roblox.
-- **Valkyrie Helm** (Roblox Avatar): [item source](https://www.roblox.com/catalog/1365767), [image](https://img1.pnghut.com/1/12/9/if2f51S0zS/information-avatar-video-hat-valkyrie.jpg). PNGHut / Roblox.
-- **Sparkle Time Fedora** (Roblox Avatar): [item source](https://www.roblox.com/catalog/1285307), [image](https://static.wikia.nocookie.net/roblox/images/7/74/Sparkle_Time_Fedora.png). Roblox Wiki / Roblox.
-- **Super Super Happy Face** (Roblox Avatar): [item source](https://www.roblox.com/catalog/494291269), [image](https://avatarstar.net/assets/images/494291269-super-super-happy-face.webp). AvatarStar / Roblox.
