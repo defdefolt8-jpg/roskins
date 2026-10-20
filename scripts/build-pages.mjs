@@ -34,4 +34,5 @@ await writeFile(path.join(output, 'styles.css'), css);
 await writeFile(path.join(output, '.nojekyll'), '');
 await cp(path.join(root, 'public/assets'), path.join(output, 'assets'), { recursive: true });
 await cp(path.join(root, 'public/favicon.svg'), path.join(output, 'favicon.svg'));
+await cp(path.join(root, 'public/catalog-items.json'), path.join(output, 'catalog-items.json'));
 console.log('GitHub Pages storefront exported to docs/ (no server APIs or secrets).');
