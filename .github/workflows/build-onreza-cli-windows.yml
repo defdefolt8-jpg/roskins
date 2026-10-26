@@ -1,0 +1,33 @@
+name: Build ONREZA CLI for Windows
+
+on:
+  push:
+    branches: [onreza-trade-plaza]
+    paths: [.github/workflows/build-onreza-cli-windows.yml]
+
+jobs:
+  build:
+    runs-on: windows-latest
+    timeout-minutes: 60
+    steps:
+      - name: Check out ONREZA CLI
+        shell: pwsh
+        run: |
+          git clone https://github.com/ONREZA/nrz-cli.git cli
+          git -C cli checkout d02dff244b0863a8b86675929070e218dd3c1209
+      - name: Fix directory sync on Windows
+        shell: pwsh
+        run: |
+          $path = 'cli/src/artifact/source_bundle_v2.rs'
+          $source = [System.IO.File]::ReadAllText($path)
+          $old = '        File::open(directory)?.sync_all()?;'
+          if (-not $source.Contains($old)) { throw 'Expected upstream line was not found' }
+          $source = $source.Replace($old, '        #[cfg(not(windows))]' + "`n" + $old)
+          [System.IO.File]::WriteAllText($path, $source)
+      - name: Build patched CLI
+        shell: pwsh
+        run: cargo build --release --locked --manifest-path cli/Cargo.toml --bin nrz
+      - uses: actions/upload-artifact@v4
+        with:
+          name: nrz-windows-directory-sync-fix
+          path: cli/target/release/nrz.exe
