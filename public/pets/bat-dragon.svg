@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+<title id="title">Roskins original cartoon bat dragon</title>
+
+<defs>
+ <linearGradient id="mint" x1="0" y1="0" x2=".85" y2="1"><stop stop-color="#d3fc9b"/><stop offset="1" stop-color="#5dbf8c"/></linearGradient>
+ <linearGradient id="shell" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#9bdf76"/><stop offset="1" stop-color="#3c9166"/></linearGradient>
+ <linearGradient id="cream" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#fffdf0"/><stop offset="1" stop-color="#c9d6dd"/></linearGradient>
+ <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffbbdf"/><stop offset="1" stop-color="#d478d7"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#c8fcff"/><stop offset="1" stop-color="#4baadf"/></linearGradient>
+ <linearGradient id="ice" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ecffff"/><stop offset="1" stop-color="#73d7ef"/></linearGradient>
+ <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a395df"/><stop offset="1" stop-color="#4d446f"/></linearGradient>
+ <linearGradient id="dark" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#64557c"/><stop offset="1" stop-color="#242c3a"/></linearGradient>
+ <linearGradient id="tan" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#efc196"/><stop offset="1" stop-color="#b67758"/></linearGradient>
+ <linearGradient id="brown" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#c69371"/><stop offset="1" stop-color="#7f564b"/></linearGradient>
+ <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffcc83"/><stop offset="1" stop-color="#d77b4e"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff2a6"/><stop offset="1" stop-color="#e9b14d"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#efffff" stop-opacity=".9"/><stop offset="1" stop-color="#9ccfe2" stop-opacity=".65"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#ffadc9"/><stop offset="1" stop-color="#e94a85"/></linearGradient>
+ <style>.o{stroke:#17262c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}.h{fill:none;stroke:#fff;stroke-opacity:.55;stroke-width:5;stroke-linecap:round}.d{fill:#17262c}.blush{fill:#f08dae;opacity:.62}</style>
+</defs>
+<ellipse cx="81" cy="139" rx="49" ry="7" fill="#000" opacity=".22"/>
+
+<path class="o" fill="url(#brown)" d="M105 111c15 16 29 4 26-11 16 20-3 43-29 25z"/>
+<path class="o" fill="url(#orange)" d="M49 93L17 50l1 39 15-3-1 18 18 9M108 91l34-44-1 40-15-3 2 20-19 9"/>
+<path class="o" fill="none" stroke-opacity=".4" d="M21 57l28 44M138 55l-29 46"/>
+<ellipse class="o" fill="url(#brown)" cx="79" cy="107" rx="30" ry="29"/>
+<ellipse fill="#e6b68d" cx="80" cy="114" rx="17" ry="20"/>
+<path class="o" fill="url(#brown)" d="M55 117l-13 15q9 9 24 3l2-14m27-3l-1 17q16 6 24-4l-15-15"/>
+<path class="o" fill="#ffe1a6" d="M53 55l-7-26 19 17m30 0l21-21-7 32"/>
+<path class="o" fill="url(#brown)" d="M46 66c-3-20 12-32 34-32 24 0 40 15 35 37l-9 17c-14 16-39 15-52 2z"/>
+<path class="o" fill="#e6b68d" d="M53 78q26-15 54-2l2 14c-13 14-43 14-55 0z"/>
+<path fill="#fff0b3" d="M70 37l8-17 10 17z"/>
+<ellipse cx="63" cy="67" rx="5" ry="6" fill="#ffd676"/><ellipse cx="98" cy="66" rx="5" ry="6" fill="#ffd676"/>
+<circle cx="62" cy="65" r="1.5" fill="#fff"/><circle cx="97" cy="64" r="1.5" fill="#fff"/>
+<circle cx="67" cy="84" r="2" fill="#17262c" opacity=".55"/><circle cx="94" cy="83" r="2" fill="#17262c" opacity=".55"/>
+<path class="o" fill="none" d="M74 91q7 5 14-1"/>
+<path class="h" d="M58 48q7-6 15-6"/>
+<path fill="#fff0b3" opacity=".85" d="M25 119l3 6 6 2-6 2-3 6-2-6-6-2 6-2z"/>
+
+</svg>

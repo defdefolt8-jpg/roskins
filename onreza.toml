@@ -1,0 +1,16 @@
+#:schema https://docs.onreza.ru/schemas/onreza-project-v1.schema.json
+[project]
+id = "01a1754b-057b-7313-b273-d0e75b589d91"
+name = "roskins-plaza"
+[build]
+install_command = "npm ci --ignore-scripts --no-audit --no-fund"
+command = "npm run build"
+output_directory = ".next/standalone"
+[deploy]
+compute = "process"
+entry = "server.js"
+health_check_path = "/api/health"
+[env.declarations]
+DATABASE_URL = "sensitive"
+PUBLIC_ORIGIN = { visibility = "plain", required = false }
+NEXT_TELEMETRY_DISABLED = { visibility = "plain", required = false }

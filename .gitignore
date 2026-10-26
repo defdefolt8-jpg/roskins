@@ -1,0 +1,7 @@
+node_modules/
+.next/
+.env*
+.dev.vars*
+.onreza/
+*.log
+*.tsbuildinfo

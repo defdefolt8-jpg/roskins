@@ -1,0 +1,52 @@
+{
+  "source_url": "https://www.playadopt.me/discover/pets",
+  "checked_at": "2026-10-26",
+  "records": 844,
+  "non_egg_pets": 798,
+  "egg_records": 46,
+  "unique_pet_slugs": 798,
+  "unique_egg_slugs": 42,
+  "all_public_flag_no": true,
+  "field_counts": {
+    "contentpack": 844,
+    "is_customizable": 844,
+    "hide_from_collectors_sign": 844,
+    "origin": 844,
+    "name": 844,
+    "is_for_sale": 844,
+    "id": 844,
+    "cost": 205,
+    "is_egg": 844,
+    "donatable": 844,
+    "should_be_hidden_from_public": 844,
+    "origin_items": 791,
+    "kind": 844,
+    "category": 844,
+    "slug": 844,
+    "thumbnail": 844,
+    "image": 844,
+    "rarity": 844,
+    "currency_id": 135
+  },
+  "thumbnail_hosts": {
+    "sharedmedia.playadopt.me": 798
+  },
+  "thumbnail_extensions": {
+    ".png": 798
+  },
+  "source_snapshots": {
+    "pets-page.html": "48f9fd3c016de2f1293be12a858be5bf17d1b49ca5fd07131f0c76d17c5b1ea6",
+    "pets-flight.txt": "702da6e29a174990a697e02b8b6919e5b14b5cc2ff9d12bccbb889997887836a",
+    "official-items-raw.json": "5897983c1b2aa0b320c5544a5ad79f16aa37e65b44f3f983d7279f5cd795d28b"
+  },
+  "downloads": {
+    "requested": 798,
+    "success": 798,
+    "failed": 0,
+    "bytes": 6064308,
+    "seconds": 40,
+    "max_parallelism": 6,
+    "timeout_seconds": 20,
+    "attempts_per_image": 3
+  }
+}

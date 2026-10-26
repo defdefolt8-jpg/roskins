@@ -1,0 +1,386 @@
+[
+  {
+    "id": "dog",
+    "name": "Dog",
+    "url": "https://www.playadopt.me/discover/pets/dog",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "cat",
+    "name": "Cat",
+    "url": "https://www.playadopt.me/discover/pets/cat",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "dragon",
+    "name": "Dragon",
+    "url": "https://www.playadopt.me/discover/pets/dragon",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "giraffe",
+    "name": "Giraffe",
+    "url": "https://www.playadopt.me/discover/pets/giraffe",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "parrot",
+    "name": "Parrot",
+    "url": "https://www.playadopt.me/discover/pets/parrot",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "elephant",
+    "name": "Elephant",
+    "url": "https://www.playadopt.me/discover/pets/elephant",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "lion",
+    "name": "Lion",
+    "url": "https://www.playadopt.me/discover/pets/lion",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "flamingo",
+    "name": "Flamingo",
+    "url": "https://www.playadopt.me/discover/pets/flamingo",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "crocodile",
+    "name": "Crocodile",
+    "url": "https://www.playadopt.me/discover/pets/crocodile",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "hyena",
+    "name": "Hyena",
+    "url": "https://www.playadopt.me/discover/pets/hyena",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "dalmatian",
+    "name": "Dalmatian",
+    "url": "https://www.playadopt.me/discover/pets/dalmatian",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "hedgehog",
+    "name": "Hedgehog",
+    "url": "https://www.playadopt.me/discover/pets/hedgehog",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "blue-dog",
+    "name": "Blue Dog",
+    "url": "https://www.playadopt.me/discover/pets/blue-dog",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "pink-cat",
+    "name": "Pink Cat",
+    "url": "https://www.playadopt.me/discover/pets/pink-cat",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "golden-penguin",
+    "name": "Golden Penguin",
+    "url": "https://www.playadopt.me/discover/pets/golden-penguin",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "king-bee",
+    "name": "King Bee",
+    "url": "https://www.playadopt.me/discover/pets/king-bee",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "queen-bee",
+    "name": "Queen Bee",
+    "url": "https://www.playadopt.me/discover/pets/queen-bee",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "bee",
+    "name": "Bee",
+    "url": "https://www.playadopt.me/discover/pets/bee",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "panda",
+    "name": "Panda",
+    "url": "https://www.playadopt.me/discover/pets/panda",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "red-panda",
+    "name": "Red Panda",
+    "url": "https://www.playadopt.me/discover/pets/red-panda",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "koala",
+    "name": "Koala",
+    "url": "https://www.playadopt.me/discover/pets/koala",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "polar-bear",
+    "name": "Polar Bear",
+    "url": "https://www.playadopt.me/discover/pets/polar-bear",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "brown-bear",
+    "name": "Brown Bear",
+    "url": "https://www.playadopt.me/discover/pets/brown-bear",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "sloth",
+    "name": "Sloth",
+    "url": "https://www.playadopt.me/discover/pets/sloth",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "meerkat",
+    "name": "Meerkat",
+    "url": "https://www.playadopt.me/discover/pets/meerkat",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "platypus",
+    "name": "Platypus",
+    "url": "https://www.playadopt.me/discover/pets/platypus",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "llama",
+    "name": "Llama",
+    "url": "https://www.playadopt.me/discover/pets/llama",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "pig",
+    "name": "Pig",
+    "url": "https://www.playadopt.me/discover/pets/pig",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "chicken",
+    "name": "Chicken",
+    "url": "https://www.playadopt.me/discover/pets/chicken",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "silly-duck",
+    "name": "Silly Duck",
+    "url": "https://www.playadopt.me/discover/pets/silly-duck",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "drake",
+    "name": "Drake",
+    "url": "https://www.playadopt.me/discover/pets/drake",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "rhino",
+    "name": "Rhino",
+    "url": "https://www.playadopt.me/discover/pets/rhino",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "black-panther",
+    "name": "Black Panther",
+    "url": "https://www.playadopt.me/discover/pets/black-panther",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "capybara",
+    "name": "Capybara",
+    "url": "https://www.playadopt.me/discover/pets/capybara",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "snow-owl",
+    "name": "Snow Owl",
+    "url": "https://www.playadopt.me/discover/pets/snow-owl",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "dodo",
+    "name": "Dodo",
+    "url": "https://www.playadopt.me/discover/pets/dodo",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "t-rex",
+    "name": "T-Rex",
+    "url": "https://www.playadopt.me/discover/pets/t-rex",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "phoenix",
+    "name": "Phoenix",
+    "url": "https://www.playadopt.me/discover/pets/phoenix",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "goldhorn",
+    "name": "Goldhorn",
+    "url": "https://www.playadopt.me/discover/pets/goldhorn",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "axolotl",
+    "name": "Axolotl",
+    "url": "https://www.playadopt.me/discover/pets/axolotl",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "shark",
+    "name": "Shark",
+    "url": "https://www.playadopt.me/discover/pets/shark",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "octopus",
+    "name": "Octopus",
+    "url": "https://www.playadopt.me/discover/pets/octopus",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "squid",
+    "name": "Squid",
+    "url": "https://www.playadopt.me/discover/pets/squid",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "chameleon",
+    "name": "Chameleon",
+    "url": "https://www.playadopt.me/discover/pets/chameleon",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "space-whale",
+    "name": "Space Whale",
+    "url": "https://www.playadopt.me/discover/pets/space-whale",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "winged-horse",
+    "name": "Winged Horse",
+    "url": "https://www.playadopt.me/discover/pets/winged-horse",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "ancient-dragon",
+    "name": "Ancient Dragon",
+    "url": "https://www.playadopt.me/discover/pets/ancient-dragon",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  },
+  {
+    "id": "diamond-unicorn",
+    "name": "Diamond Unicorn",
+    "url": "https://www.playadopt.me/discover/pets/diamond-unicorn",
+    "checked_at": "2026-10-26",
+    "page_heading_verified": true,
+    "official_type": "Pet"
+  }
+]

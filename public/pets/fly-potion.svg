@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+<title id="title">Roskins original cartoon fly potion</title>
+
+<defs>
+ <linearGradient id="mint" x1="0" y1="0" x2=".85" y2="1"><stop stop-color="#d3fc9b"/><stop offset="1" stop-color="#5dbf8c"/></linearGradient>
+ <linearGradient id="shell" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#9bdf76"/><stop offset="1" stop-color="#3c9166"/></linearGradient>
+ <linearGradient id="cream" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#fffdf0"/><stop offset="1" stop-color="#c9d6dd"/></linearGradient>
+ <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffbbdf"/><stop offset="1" stop-color="#d478d7"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#c8fcff"/><stop offset="1" stop-color="#4baadf"/></linearGradient>
+ <linearGradient id="ice" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ecffff"/><stop offset="1" stop-color="#73d7ef"/></linearGradient>
+ <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a395df"/><stop offset="1" stop-color="#4d446f"/></linearGradient>
+ <linearGradient id="dark" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#64557c"/><stop offset="1" stop-color="#242c3a"/></linearGradient>
+ <linearGradient id="tan" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#efc196"/><stop offset="1" stop-color="#b67758"/></linearGradient>
+ <linearGradient id="brown" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#c69371"/><stop offset="1" stop-color="#7f564b"/></linearGradient>
+ <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffcc83"/><stop offset="1" stop-color="#d77b4e"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff2a6"/><stop offset="1" stop-color="#e9b14d"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#efffff" stop-opacity=".9"/><stop offset="1" stop-color="#9ccfe2" stop-opacity=".65"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#ffadc9"/><stop offset="1" stop-color="#e94a85"/></linearGradient>
+ <style>.o{stroke:#17262c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}.h{fill:none;stroke:#fff;stroke-opacity:.55;stroke-width:5;stroke-linecap:round}.d{fill:#17262c}.blush{fill:#f08dae;opacity:.62}</style>
+</defs>
+<ellipse cx="81" cy="139" rx="49" ry="7" fill="#000" opacity=".22"/>
+
+<path class="o" fill="#d9faff" d="M47 83q-15-29-30-18c-7 7 8 21 18 22-20-8-19 6-7 12l21 9m64-25q15-29 30-18c7 7-8 21-18 22 20-8 19 6 7 12l-21 9"/>
+<path class="o" fill="url(#glass)" d="M63 42h34v23c0 9 25 24 25 48 0 20-17 28-42 28s-42-8-42-28c0-24 25-39 25-48z"/>
+<path class="o" fill="url(#blue)" d="M47 100q33-11 66 0c10 23-2 33-33 33s-43-10-33-33z"/>
+<path fill="#c6ffff" opacity=".8" d="M48 99q32-12 64 0-32 13-64 0"/>
+<rect class="o" fill="url(#purple)" x="60" y="29" width="40" height="18" rx="5"/>
+<rect class="o" fill="url(#gold)" x="68" y="17" width="24" height="15" rx="4"/>
+<circle class="o" fill="#f0fcff" cx="80" cy="92" r="20"/>
+<path fill="#66b2d6" d="M80 101C62 100 61 84 67 82l12 8 12-8c7 2 5 18-11 19z"/>
+<path class="h" d="M54 84q-9 12-8 21"/>
+<path fill="#cffaff" d="M125 30l3 7 8 3-8 3-3 8-3-8-7-3 7-3z"/>
+<circle cx="34" cy="36" r="3" fill="#91dcec"/>
+
+</svg>

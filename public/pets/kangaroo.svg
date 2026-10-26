@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+<title id="title">Roskins original cartoon kangaroo</title>
+
+<defs>
+ <linearGradient id="mint" x1="0" y1="0" x2=".85" y2="1"><stop stop-color="#d3fc9b"/><stop offset="1" stop-color="#5dbf8c"/></linearGradient>
+ <linearGradient id="shell" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#9bdf76"/><stop offset="1" stop-color="#3c9166"/></linearGradient>
+ <linearGradient id="cream" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#fffdf0"/><stop offset="1" stop-color="#c9d6dd"/></linearGradient>
+ <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffbbdf"/><stop offset="1" stop-color="#d478d7"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#c8fcff"/><stop offset="1" stop-color="#4baadf"/></linearGradient>
+ <linearGradient id="ice" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ecffff"/><stop offset="1" stop-color="#73d7ef"/></linearGradient>
+ <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a395df"/><stop offset="1" stop-color="#4d446f"/></linearGradient>
+ <linearGradient id="dark" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#64557c"/><stop offset="1" stop-color="#242c3a"/></linearGradient>
+ <linearGradient id="tan" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#efc196"/><stop offset="1" stop-color="#b67758"/></linearGradient>
+ <linearGradient id="brown" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#c69371"/><stop offset="1" stop-color="#7f564b"/></linearGradient>
+ <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffcc83"/><stop offset="1" stop-color="#d77b4e"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff2a6"/><stop offset="1" stop-color="#e9b14d"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#efffff" stop-opacity=".9"/><stop offset="1" stop-color="#9ccfe2" stop-opacity=".65"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#ffadc9"/><stop offset="1" stop-color="#e94a85"/></linearGradient>
+ <style>.o{stroke:#17262c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}.h{fill:none;stroke:#fff;stroke-opacity:.55;stroke-width:5;stroke-linecap:round}.d{fill:#17262c}.blush{fill:#f08dae;opacity:.62}</style>
+</defs>
+<ellipse cx="81" cy="139" rx="49" ry="7" fill="#000" opacity=".22"/>
+
+<path class="o" fill="url(#tan)" d="M103 99c14 19 24 25 43 25-8 13-30 13-47-1z"/>
+<path class="o" fill="url(#tan)" d="M68 60C47 42 44 16 53 15c11-2 21 26 22 39M83 54c-3-27 8-43 16-38 9 5-2 30-8 43"/>
+<path fill="#df9b9e" d="M55 22q11 17 13 29-11-10-13-29m40 0q-7 17-8 26 8-11 8-26"/>
+<ellipse class="o" fill="url(#tan)" cx="81" cy="102" rx="27" ry="32"/>
+<path class="o" fill="url(#tan)" d="M65 120c-16 1-27 11-23 16h30l6-14m14-4c13 1 26 12 23 18H87l-4-14"/>
+<path fill="#f9d5ad" d="M63 102q18-9 36 0l-4 20q-13 12-26-1z"/>
+<path class="o" fill="none" stroke-opacity=".55" d="M66 103q15 7 30 0"/>
+<path class="o" fill="url(#tan)" d="M59 63c0-17 12-26 28-24 16 2 21 17 14 30l-10 13-26-4z"/>
+<ellipse class="o" fill="#f8d8b6" cx="63" cy="76" rx="19" ry="12"/>
+<ellipse class="d" cx="47" cy="74" rx="5" ry="4"/>
+<ellipse class="d" cx="65" cy="61" rx="4" ry="5"/><circle cx="64" cy="59.4" r="1.25" fill="#fff"/><ellipse class="d" cx="89" cy="61" rx="4" ry="5"/><circle cx="88" cy="59.4" r="1.25" fill="#fff"/>
+<path class="o" fill="none" d="M52 82q8 5 14 0"/>
+<path class="o" fill="url(#tan)" d="M62 91l-13 16q2 8 10 3l11-12m29-9l10 16q-3 8-9 2l-9-10"/>
+<path class="h" d="M73 44q8-3 14 0"/>
+
+</svg>

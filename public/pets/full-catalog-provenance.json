@@ -1,0 +1,4059 @@
+{
+  "date": "2026-10-26",
+  "source": "https://www.playadopt.me/discover/pets",
+  "official_pets": 798,
+  "legacy_pet_ids_preserved": [
+    "ancient-dragon",
+    "arctic-reindeer",
+    "axolotl",
+    "bat-dragon",
+    "bee",
+    "black-panther",
+    "blue-dog",
+    "brown-bear",
+    "capybara",
+    "cat",
+    "chameleon",
+    "chicken",
+    "cow",
+    "crocodile",
+    "dalmatian",
+    "diamond-unicorn",
+    "dodo",
+    "dog",
+    "dragon",
+    "drake",
+    "elephant",
+    "flamingo",
+    "frost-dragon",
+    "giraffe",
+    "golden-penguin",
+    "goldhorn",
+    "hedgehog",
+    "hyena",
+    "kangaroo",
+    "king-bee",
+    "koala",
+    "lion",
+    "llama",
+    "meerkat",
+    "octopus",
+    "owl",
+    "panda",
+    "parrot",
+    "phoenix",
+    "pig",
+    "pink-cat",
+    "platypus",
+    "polar-bear",
+    "queen-bee",
+    "red-panda",
+    "rhino",
+    "shadow-dragon",
+    "shark",
+    "silly-duck",
+    "sloth",
+    "snow-owl",
+    "space-whale",
+    "squid",
+    "t-rex",
+    "turtle",
+    "unicorn",
+    "winged-horse"
+  ],
+  "downloaded_images": 798,
+  "new_local_images": 741,
+  "missing_images": 0,
+  "pets": [
+    {
+      "id": "2021-uplift-butterfly",
+      "source_url": "https://www.playadopt.me/discover/pets/2021-uplift-butterfly",
+      "official_id": "2021_uplift_butterfly"
+    },
+    {
+      "id": "2022-uplift-butterfly",
+      "source_url": "https://www.playadopt.me/discover/pets/2022-uplift-butterfly",
+      "official_id": "birthday_2022_uplift_butterfly"
+    },
+    {
+      "id": "2025-birthday-butterfly",
+      "source_url": "https://www.playadopt.me/discover/pets/2025-birthday-butterfly",
+      "official_id": "birthday_2025_butterfly"
+    },
+    {
+      "id": "2026-birthday-butterfly",
+      "source_url": "https://www.playadopt.me/discover/pets/2026-birthday-butterfly",
+      "official_id": "birthday_2026_birthday_butterfly"
+    },
+    {
+      "id": "2d-doggy",
+      "source_url": "https://www.playadopt.me/discover/pets/2d-doggy",
+      "official_id": "2d_refresh_2026_2d_dog"
+    },
+    {
+      "id": "2d-kitty",
+      "source_url": "https://www.playadopt.me/discover/pets/2d-kitty",
+      "official_id": "2d_tuesdays_2025_2d_kitty"
+    },
+    {
+      "id": "abyssinian-cat",
+      "source_url": "https://www.playadopt.me/discover/pets/abyssinian-cat",
+      "official_id": "desert_2022_abyssinian_cat"
+    },
+    {
+      "id": "aestus",
+      "source_url": "https://www.playadopt.me/discover/pets/aestus",
+      "official_id": "summer_2026_sunfire_dragon"
+    },
+    {
+      "id": "african-wild-dog",
+      "source_url": "https://www.playadopt.me/discover/pets/african-wild-dog",
+      "official_id": "ugc_refresh_2023_african_wild_dog"
+    },
+    {
+      "id": "albatross",
+      "source_url": "https://www.playadopt.me/discover/pets/albatross",
+      "official_id": "snow_2022_albatross"
+    },
+    {
+      "id": "albino-bat",
+      "source_url": "https://www.playadopt.me/discover/pets/albino-bat",
+      "official_id": "albino_bat"
+    },
+    {
+      "id": "albino-gorilla",
+      "source_url": "https://www.playadopt.me/discover/pets/albino-gorilla",
+      "official_id": "gorilla_fair_2023_albino_gorilla"
+    },
+    {
+      "id": "albino-monkey",
+      "source_url": "https://www.playadopt.me/discover/pets/albino-monkey",
+      "official_id": "albino_monkey"
+    },
+    {
+      "id": "alicorn",
+      "source_url": "https://www.playadopt.me/discover/pets/alicorn",
+      "official_id": "basic_egg_2022_alicorn"
+    },
+    {
+      "id": "alley-cat",
+      "source_url": "https://www.playadopt.me/discover/pets/alley-cat",
+      "official_id": "urban_2023_alley_cat"
+    },
+    {
+      "id": "alpaca",
+      "source_url": "https://www.playadopt.me/discover/pets/alpaca",
+      "official_id": "farm_2023_alpaca"
+    },
+    {
+      "id": "amami-rabbit",
+      "source_url": "https://www.playadopt.me/discover/pets/amami-rabbit",
+      "official_id": "lny_2023_amami_rabbit"
+    },
+    {
+      "id": "amber-butterfly",
+      "source_url": "https://www.playadopt.me/discover/pets/amber-butterfly",
+      "official_id": "butterfly_2025_amber_butterfly"
+    },
+    {
+      "id": "amethyst-penguin",
+      "source_url": "https://www.playadopt.me/discover/pets/amethyst-penguin",
+      "official_id": "star_rewards_2026_amethyst_penguin"
+    },
+    {
+      "id": "ancient-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/ancient-dragon",
+      "official_id": "basic_egg_2022_ancient_dragon"
+    },
+    {
+      "id": "angelfish",
+      "source_url": "https://www.playadopt.me/discover/pets/angelfish",
+      "official_id": "jungle_2023_angelfish"
+    },
+    {
+      "id": "angler-fish",
+      "source_url": "https://www.playadopt.me/discover/pets/angler-fish",
+      "official_id": "danger_2023_angler_fish"
+    },
+    {
+      "id": "angus-bull",
+      "source_url": "https://www.playadopt.me/discover/pets/angus-bull",
+      "official_id": "winter_2025_angus_bull"
+    },
+    {
+      "id": "angus-calf",
+      "source_url": "https://www.playadopt.me/discover/pets/angus-calf",
+      "official_id": "winter_2025_angus_calf"
+    },
+    {
+      "id": "angus-cow",
+      "source_url": "https://www.playadopt.me/discover/pets/angus-cow",
+      "official_id": "winter_2025_angus_cow"
+    },
+    {
+      "id": "ankylosaurus",
+      "source_url": "https://www.playadopt.me/discover/pets/ankylosaurus",
+      "official_id": "fossil_2024_ankylosaurus"
+    },
+    {
+      "id": "ant",
+      "source_url": "https://www.playadopt.me/discover/pets/ant",
+      "official_id": "basic_egg_2022_ant"
+    },
+    {
+      "id": "apple-owl",
+      "source_url": "https://www.playadopt.me/discover/pets/apple-owl",
+      "official_id": "food_pets_2026_apple_owl"
+    },
+    {
+      "id": "arctic-dusk-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/arctic-dusk-dragon",
+      "official_id": "winter_2025_arctic_dusk_dragon"
+    },
+    {
+      "id": "arctic-fox",
+      "source_url": "https://www.playadopt.me/discover/pets/arctic-fox",
+      "official_id": "arctic_fox"
+    },
+    {
+      "id": "arctic-hare",
+      "source_url": "https://www.playadopt.me/discover/pets/arctic-hare",
+      "official_id": "winter_2023_arctic_hare"
+    },
+    {
+      "id": "arctic-reindeer",
+      "source_url": "https://www.playadopt.me/discover/pets/arctic-reindeer",
+      "official_id": "arctic_reindeer"
+    },
+    {
+      "id": "arctic-tern",
+      "source_url": "https://www.playadopt.me/discover/pets/arctic-tern",
+      "official_id": "summerfest_2023_arctic_tern"
+    },
+    {
+      "id": "armadillo",
+      "source_url": "https://www.playadopt.me/discover/pets/armadillo",
+      "official_id": "desert_2024_armadillo"
+    },
+    {
+      "id": "ash-zebra",
+      "source_url": "https://www.playadopt.me/discover/pets/ash-zebra",
+      "official_id": "lures_2023_ash_zebra"
+    },
+    {
+      "id": "astronaut-gorilla",
+      "source_url": "https://www.playadopt.me/discover/pets/astronaut-gorilla",
+      "official_id": "gorilla_fair_2023_astronaut_gorilla"
+    },
+    {
+      "id": "aurora-fox",
+      "source_url": "https://www.playadopt.me/discover/pets/aurora-fox",
+      "official_id": "winter_2024_aurora_fox"
+    },
+    {
+      "id": "australian-kelpie",
+      "source_url": "https://www.playadopt.me/discover/pets/australian-kelpie",
+      "official_id": "kelpie"
+    },
+    {
+      "id": "axolotl",
+      "source_url": "https://www.playadopt.me/discover/pets/axolotl",
+      "official_id": "axolotl"
+    },
+    {
+      "id": "aye-aye",
+      "source_url": "https://www.playadopt.me/discover/pets/aye-aye",
+      "official_id": "halloween_2025_aye_aye"
+    },
+    {
+      "id": "badger",
+      "source_url": "https://www.playadopt.me/discover/pets/badger",
+      "official_id": "fall_2022_badger"
+    },
+    {
+      "id": "bakeneko",
+      "source_url": "https://www.playadopt.me/discover/pets/bakeneko",
+      "official_id": "spring_2025_bakeneko"
+    },
+    {
+      "id": "baku",
+      "source_url": "https://www.playadopt.me/discover/pets/baku",
+      "official_id": "japan_2022_baku"
+    },
+    {
+      "id": "bald-eagle",
+      "source_url": "https://www.playadopt.me/discover/pets/bald-eagle",
+      "official_id": "summerfest_2024_bald_eagle"
+    },
+    {
+      "id": "bali-starling",
+      "source_url": "https://www.playadopt.me/discover/pets/bali-starling",
+      "official_id": "seasia_2023_bali_starling"
+    },
+    {
+      "id": "ballet-swan",
+      "source_url": "https://www.playadopt.me/discover/pets/ballet-swan",
+      "official_id": "fairytale_2026_ballet_swan"
+    },
+    {
+      "id": "balloon-unicorn",
+      "source_url": "https://www.playadopt.me/discover/pets/balloon-unicorn",
+      "official_id": "summerfest_2024_balloon_unicorn"
+    },
+    {
+      "id": "banded-palm-civet",
+      "source_url": "https://www.playadopt.me/discover/pets/banded-palm-civet",
+      "official_id": "seasia_2023_banded_palm_civet"
+    },
+    {
+      "id": "bandicoot",
+      "source_url": "https://www.playadopt.me/discover/pets/bandicoot",
+      "official_id": "bandicoot"
+    },
+    {
+      "id": "basilisk",
+      "source_url": "https://www.playadopt.me/discover/pets/basilisk",
+      "official_id": "halloween_2022_basilisk"
+    },
+    {
+      "id": "bat",
+      "source_url": "https://www.playadopt.me/discover/pets/bat",
+      "official_id": "bat"
+    },
+    {
+      "id": "bat-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/bat-dragon",
+      "official_id": "bat_dragon"
+    },
+    {
+      "id": "bauble-buddies",
+      "source_url": "https://www.playadopt.me/discover/pets/bauble-buddies",
+      "official_id": "winter_2024_bauble_buddies"
+    },
+    {
+      "id": "beaver",
+      "source_url": "https://www.playadopt.me/discover/pets/beaver",
+      "official_id": "beaver"
+    },
+    {
+      "id": "bee",
+      "source_url": "https://www.playadopt.me/discover/pets/bee",
+      "official_id": "bee"
+    },
+    {
+      "id": "beluga-whale",
+      "source_url": "https://www.playadopt.me/discover/pets/beluga-whale",
+      "official_id": "winter_2023_beluga_whale"
+    },
+    {
+      "id": "berry-cool-cube",
+      "source_url": "https://www.playadopt.me/discover/pets/berry-cool-cube",
+      "official_id": "winter_2024_berry_cool_cube"
+    },
+    {
+      "id": "billy-goat",
+      "source_url": "https://www.playadopt.me/discover/pets/billy-goat",
+      "official_id": "urban_2023_billy_goat"
+    },
+    {
+      "id": "binturong",
+      "source_url": "https://www.playadopt.me/discover/pets/binturong",
+      "official_id": "seasia_2023_binturong"
+    },
+    {
+      "id": "bird-of-paradise",
+      "source_url": "https://www.playadopt.me/discover/pets/bird-of-paradise",
+      "official_id": "jungle_2023_bird_of_paradise"
+    },
+    {
+      "id": "birthday-butterfly-2023",
+      "source_url": "https://www.playadopt.me/discover/pets/birthday-butterfly-2023",
+      "official_id": "birthday_2023_birthday_butterfly"
+    },
+    {
+      "id": "birthday-butterfly-2024",
+      "source_url": "https://www.playadopt.me/discover/pets/birthday-butterfly-2024",
+      "official_id": "birthday_2024_butterfly"
+    },
+    {
+      "id": "bison",
+      "source_url": "https://www.playadopt.me/discover/pets/bison",
+      "official_id": "journey_2026_bison"
+    },
+    {
+      "id": "black-chow-chow",
+      "source_url": "https://www.playadopt.me/discover/pets/black-chow-chow",
+      "official_id": "vip_2022_chow_chow_black"
+    },
+    {
+      "id": "black-kite",
+      "source_url": "https://www.playadopt.me/discover/pets/black-kite",
+      "official_id": "urban_2023_black_kite"
+    },
+    {
+      "id": "black-macaque",
+      "source_url": "https://www.playadopt.me/discover/pets/black-macaque",
+      "official_id": "seasia_2023_black_macaque"
+    },
+    {
+      "id": "black-marlin",
+      "source_url": "https://www.playadopt.me/discover/pets/black-marlin",
+      "official_id": "sunshine_2024_black_marlin"
+    },
+    {
+      "id": "black-moon-bear",
+      "source_url": "https://www.playadopt.me/discover/pets/black-moon-bear",
+      "official_id": "lny_2023_moon_bear"
+    },
+    {
+      "id": "black-panther",
+      "source_url": "https://www.playadopt.me/discover/pets/black-panther",
+      "official_id": "black_panther"
+    },
+    {
+      "id": "black-rhino",
+      "source_url": "https://www.playadopt.me/discover/pets/black-rhino",
+      "official_id": "endangered_2026_black_rhino"
+    },
+    {
+      "id": "black-springer-spaniel",
+      "source_url": "https://www.playadopt.me/discover/pets/black-springer-spaniel",
+      "official_id": "easter_2022_springer_spaniel_black"
+    },
+    {
+      "id": "black-tiger",
+      "source_url": "https://www.playadopt.me/discover/pets/black-tiger",
+      "official_id": "endangered_2026_black_tiger"
+    },
+    {
+      "id": "black-widow",
+      "source_url": "https://www.playadopt.me/discover/pets/black-widow",
+      "official_id": "halloween_2025_spider_4"
+    },
+    {
+      "id": "black-chested-pheasant",
+      "source_url": "https://www.playadopt.me/discover/pets/black-chested-pheasant",
+      "official_id": "fall_2022_pheasant_black"
+    },
+    {
+      "id": "black-footed-ferret",
+      "source_url": "https://www.playadopt.me/discover/pets/black-footed-ferret",
+      "official_id": "endangered_2026_black_footed_ferret"
+    },
+    {
+      "id": "blazing-lion",
+      "source_url": "https://www.playadopt.me/discover/pets/blazing-lion",
+      "official_id": "lures_2023_blazing_lion"
+    },
+    {
+      "id": "bloodhound",
+      "source_url": "https://www.playadopt.me/discover/pets/bloodhound",
+      "official_id": "jan_refresh_2023_bloodhound"
+    },
+    {
+      "id": "blossom-snake",
+      "source_url": "https://www.playadopt.me/discover/pets/blossom-snake",
+      "official_id": "lunar_2025_blossom_snake"
+    },
+    {
+      "id": "blue-betta-fish",
+      "source_url": "https://www.playadopt.me/discover/pets/blue-betta-fish",
+      "official_id": "summerfest_2024_blue_betta_fish"
+    },
+    {
+      "id": "blue-butterfly",
+      "source_url": "https://www.playadopt.me/discover/pets/blue-butterfly",
+      "official_id": "butterfly_2025_blue_butterfly"
+    },
+    {
+      "id": "blue-cat",
+      "source_url": "https://www.playadopt.me/discover/pets/blue-cat",
+      "official_id": "roblox_anniversary_2026_blue_cat"
+    },
+    {
+      "id": "blue-dog",
+      "source_url": "https://www.playadopt.me/discover/pets/blue-dog",
+      "official_id": "blue_dog"
+    },
+    {
+      "id": "blue-jay",
+      "source_url": "https://www.playadopt.me/discover/pets/blue-jay",
+      "official_id": "garden_2024_blue_jay"
+    },
+    {
+      "id": "blue-ringed-octopus",
+      "source_url": "https://www.playadopt.me/discover/pets/blue-ringed-octopus",
+      "official_id": "danger_2023_blue_ringed_octopus"
+    },
+    {
+      "id": "blue-whale",
+      "source_url": "https://www.playadopt.me/discover/pets/blue-whale",
+      "official_id": "endangered_2026_blue_whale"
+    },
+    {
+      "id": "bluebottle-fly",
+      "source_url": "https://www.playadopt.me/discover/pets/bluebottle-fly",
+      "official_id": "urban_2023_fly"
+    },
+    {
+      "id": "bobageist",
+      "source_url": "https://www.playadopt.me/discover/pets/bobageist",
+      "official_id": "halloween_2026_bobageist"
+    },
+    {
+      "id": "bolt",
+      "source_url": "https://www.playadopt.me/discover/pets/bolt",
+      "official_id": "halloween_2026_bolt"
+    },
+    {
+      "id": "boohoo",
+      "source_url": "https://www.playadopt.me/discover/pets/boohoo",
+      "official_id": "halloween_2026_gloomygeist"
+    },
+    {
+      "id": "border-collie",
+      "source_url": "https://www.playadopt.me/discover/pets/border-collie",
+      "official_id": "springfest_2023_border_collie"
+    },
+    {
+      "id": "borhyaena-gigantica",
+      "source_url": "https://www.playadopt.me/discover/pets/borhyaena-gigantica",
+      "official_id": "danger_2023_borhyaena_gigantica"
+    },
+    {
+      "id": "brachiosaurus",
+      "source_url": "https://www.playadopt.me/discover/pets/brachiosaurus",
+      "official_id": "fossil_2024_brachiosaurus"
+    },
+    {
+      "id": "brown-bear",
+      "source_url": "https://www.playadopt.me/discover/pets/brown-bear",
+      "official_id": "brown_bear"
+    },
+    {
+      "id": "brown-springer-spaniel",
+      "source_url": "https://www.playadopt.me/discover/pets/brown-springer-spaniel",
+      "official_id": "easter_2022_springer_spaniel_brown"
+    },
+    {
+      "id": "brown-chested-pheasant",
+      "source_url": "https://www.playadopt.me/discover/pets/brown-chested-pheasant",
+      "official_id": "fall_2022_pheasant_brown"
+    },
+    {
+      "id": "bubblegeist",
+      "source_url": "https://www.playadopt.me/discover/pets/bubblegeist",
+      "official_id": "halloween_2026_bubblegeist"
+    },
+    {
+      "id": "budgie-witch",
+      "source_url": "https://www.playadopt.me/discover/pets/budgie-witch",
+      "official_id": "fairytale_egg_2026_budgie_witch"
+    },
+    {
+      "id": "buffalo",
+      "source_url": "https://www.playadopt.me/discover/pets/buffalo",
+      "official_id": "buffalo"
+    },
+    {
+      "id": "bullfrog",
+      "source_url": "https://www.playadopt.me/discover/pets/bullfrog",
+      "official_id": "woodland_2022_bullfrog"
+    },
+    {
+      "id": "bunny",
+      "source_url": "https://www.playadopt.me/discover/pets/bunny",
+      "official_id": "bunny"
+    },
+    {
+      "id": "bunny-swirl",
+      "source_url": "https://www.playadopt.me/discover/pets/bunny-swirl",
+      "official_id": "winter_2025_bunny_swirl"
+    },
+    {
+      "id": "burger-bear",
+      "source_url": "https://www.playadopt.me/discover/pets/burger-bear",
+      "official_id": "summer_2026_burger_bear"
+    },
+    {
+      "id": "burning-bunny",
+      "source_url": "https://www.playadopt.me/discover/pets/burning-bunny",
+      "official_id": "fire_dimension_2024_burning_bunny"
+    },
+    {
+      "id": "bush-elephant",
+      "source_url": "https://www.playadopt.me/discover/pets/bush-elephant",
+      "official_id": "sunshine_2024_bush_elephant"
+    },
+    {
+      "id": "business-monkey",
+      "source_url": "https://www.playadopt.me/discover/pets/business-monkey",
+      "official_id": "business_monkey"
+    },
+    {
+      "id": "cabbit",
+      "source_url": "https://www.playadopt.me/discover/pets/cabbit",
+      "official_id": "spring_2025_cabbit"
+    },
+    {
+      "id": "cactus-friend",
+      "source_url": "https://www.playadopt.me/discover/pets/cactus-friend",
+      "official_id": "desert_2024_cactus_friend"
+    },
+    {
+      "id": "caelum-cervi",
+      "source_url": "https://www.playadopt.me/discover/pets/caelum-cervi",
+      "official_id": "pride_2023_caelum_cervi"
+    },
+    {
+      "id": "cake-friend",
+      "source_url": "https://www.playadopt.me/discover/pets/cake-friend",
+      "official_id": "birthday_2026_cake_friend"
+    },
+    {
+      "id": "california-condor",
+      "source_url": "https://www.playadopt.me/discover/pets/california-condor",
+      "official_id": "endangered_2026_california_condor"
+    },
+    {
+      "id": "camel",
+      "source_url": "https://www.playadopt.me/discover/pets/camel",
+      "official_id": "basic_egg_2022_camel"
+    },
+    {
+      "id": "canadian-goose",
+      "source_url": "https://www.playadopt.me/discover/pets/canadian-goose",
+      "official_id": "farm_2023_canada_goose"
+    },
+    {
+      "id": "candicorn",
+      "source_url": "https://www.playadopt.me/discover/pets/candicorn",
+      "official_id": "sugarfest_2026_candicorn"
+    },
+    {
+      "id": "candy-cane-snail",
+      "source_url": "https://www.playadopt.me/discover/pets/candy-cane-snail",
+      "official_id": "easter_2024_candy_cane_snail"
+    },
+    {
+      "id": "candy-hare",
+      "source_url": "https://www.playadopt.me/discover/pets/candy-hare",
+      "official_id": "winter_2023_candy_hare"
+    },
+    {
+      "id": "candyfloss-chick",
+      "source_url": "https://www.playadopt.me/discover/pets/candyfloss-chick",
+      "official_id": "easter_2024_candyfloss_chick"
+    },
+    {
+      "id": "capricorn",
+      "source_url": "https://www.playadopt.me/discover/pets/capricorn",
+      "official_id": "space_house_2022_capricorn"
+    },
+    {
+      "id": "capuchin-monkey",
+      "source_url": "https://www.playadopt.me/discover/pets/capuchin-monkey",
+      "official_id": "capuchin_2024_capuchin_monkey"
+    },
+    {
+      "id": "capybara",
+      "source_url": "https://www.playadopt.me/discover/pets/capybara",
+      "official_id": "capybara"
+    },
+    {
+      "id": "caramelgeist",
+      "source_url": "https://www.playadopt.me/discover/pets/caramelgeist",
+      "official_id": "halloween_2026_caramelgeist"
+    },
+    {
+      "id": "cassowary",
+      "source_url": "https://www.playadopt.me/discover/pets/cassowary",
+      "official_id": "jungle_2023_cassowary"
+    },
+    {
+      "id": "castle-hermit-crab",
+      "source_url": "https://www.playadopt.me/discover/pets/castle-hermit-crab",
+      "official_id": "summerfest_2023_castle_hermit_crab"
+    },
+    {
+      "id": "cat",
+      "source_url": "https://www.playadopt.me/discover/pets/cat",
+      "official_id": "cat"
+    },
+    {
+      "id": "caterpillar",
+      "source_url": "https://www.playadopt.me/discover/pets/caterpillar",
+      "official_id": "farm_2023_caterpillar"
+    },
+    {
+      "id": "catte",
+      "source_url": "https://www.playadopt.me/discover/pets/catte",
+      "official_id": "cat_cafe_2026_catte"
+    },
+    {
+      "id": "cattuccino",
+      "source_url": "https://www.playadopt.me/discover/pets/cattuccino",
+      "official_id": "cat_cafe_2026_cattuccino"
+    },
+    {
+      "id": "cerberus",
+      "source_url": "https://www.playadopt.me/discover/pets/cerberus",
+      "official_id": "cerberus"
+    },
+    {
+      "id": "chameleon",
+      "source_url": "https://www.playadopt.me/discover/pets/chameleon",
+      "official_id": "rgb_chameleon"
+    },
+    {
+      "id": "chanekeh",
+      "source_url": "https://www.playadopt.me/discover/pets/chanekeh",
+      "official_id": "aztec_egg_2025_xiucohtl"
+    },
+    {
+      "id": "cheetah",
+      "source_url": "https://www.playadopt.me/discover/pets/cheetah",
+      "official_id": "sunshine_2024_cheetah"
+    },
+    {
+      "id": "chef-gorilla",
+      "source_url": "https://www.playadopt.me/discover/pets/chef-gorilla",
+      "official_id": "gorilla_fair_2023_chef_gorilla"
+    },
+    {
+      "id": "cherub-chipmunk",
+      "source_url": "https://www.playadopt.me/discover/pets/cherub-chipmunk",
+      "official_id": "valentines_2026_cherub_chipmunk"
+    },
+    {
+      "id": "chestnut-glyptodon",
+      "source_url": "https://www.playadopt.me/discover/pets/chestnut-glyptodon",
+      "official_id": "summer_2026_glyptodon"
+    },
+    {
+      "id": "chick",
+      "source_url": "https://www.playadopt.me/discover/pets/chick",
+      "official_id": "chick"
+    },
+    {
+      "id": "chickatrice",
+      "source_url": "https://www.playadopt.me/discover/pets/chickatrice",
+      "official_id": "halloween_2022_chickatrice"
+    },
+    {
+      "id": "chicken",
+      "source_url": "https://www.playadopt.me/discover/pets/chicken",
+      "official_id": "chicken"
+    },
+    {
+      "id": "chihuahua",
+      "source_url": "https://www.playadopt.me/discover/pets/chihuahua",
+      "official_id": "what_the_fork_2026_chihuahua"
+    },
+    {
+      "id": "chilling-spider",
+      "source_url": "https://www.playadopt.me/discover/pets/chilling-spider",
+      "official_id": "halloween_2025_spider_5"
+    },
+    {
+      "id": "chimera",
+      "source_url": "https://www.playadopt.me/discover/pets/chimera",
+      "official_id": "halloween_2022_chimera"
+    },
+    {
+      "id": "chipmunk",
+      "source_url": "https://www.playadopt.me/discover/pets/chipmunk",
+      "official_id": "chiprac_2023_chipmunk"
+    },
+    {
+      "id": "choco-penguin",
+      "source_url": "https://www.playadopt.me/discover/pets/choco-penguin",
+      "official_id": "penguins_2025_choco_penguin"
+    },
+    {
+      "id": "chocolate-chip-bat-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/chocolate-chip-bat-dragon",
+      "official_id": "winter_2023_chocolate_chip_bat_dragon"
+    },
+    {
+      "id": "chocolate-chow-chow",
+      "source_url": "https://www.playadopt.me/discover/pets/chocolate-chow-chow",
+      "official_id": "vip_2022_chow_chow_dark_brown"
+    },
+    {
+      "id": "chocolate-dutch-guinea-pig",
+      "source_url": "https://www.playadopt.me/discover/pets/chocolate-dutch-guinea-pig",
+      "official_id": "subscription_2026_chocolate_dutch_guinea_pig"
+    },
+    {
+      "id": "chocolate-labrador",
+      "source_url": "https://www.playadopt.me/discover/pets/chocolate-labrador",
+      "official_id": "chocolate_labrador"
+    },
+    {
+      "id": "christmas-pudding-pup",
+      "source_url": "https://www.playadopt.me/discover/pets/christmas-pudding-pup",
+      "official_id": "winter_2023_christmas_pudding_pup"
+    },
+    {
+      "id": "christmas-spirit",
+      "source_url": "https://www.playadopt.me/discover/pets/christmas-spirit",
+      "official_id": "winter_2025_christmas_spirit"
+    },
+    {
+      "id": "classic-teapot",
+      "source_url": "https://www.playadopt.me/discover/pets/classic-teapot",
+      "official_id": "roblox_classic_2024_teapot"
+    },
+    {
+      "id": "clementine-owl",
+      "source_url": "https://www.playadopt.me/discover/pets/clementine-owl",
+      "official_id": "food_pets_2026_clementine_owl"
+    },
+    {
+      "id": "clover-cow",
+      "source_url": "https://www.playadopt.me/discover/pets/clover-cow",
+      "official_id": "st_patricks_2025_clover_cow"
+    },
+    {
+      "id": "clownfish",
+      "source_url": "https://www.playadopt.me/discover/pets/clownfish",
+      "official_id": "clownfish"
+    },
+    {
+      "id": "clubtail-dragonfly",
+      "source_url": "https://www.playadopt.me/discover/pets/clubtail-dragonfly",
+      "official_id": "summer_2026_snake_tail_dragonfly"
+    },
+    {
+      "id": "clumpty",
+      "source_url": "https://www.playadopt.me/discover/pets/clumpty",
+      "official_id": "fairytale_egg_2026_clumpty"
+    },
+    {
+      "id": "cobra",
+      "source_url": "https://www.playadopt.me/discover/pets/cobra",
+      "official_id": "cobra"
+    },
+    {
+      "id": "cockroach",
+      "source_url": "https://www.playadopt.me/discover/pets/cockroach",
+      "official_id": "urban_2023_cockroach"
+    },
+    {
+      "id": "cocoadile",
+      "source_url": "https://www.playadopt.me/discover/pets/cocoadile",
+      "official_id": "sugarfest_2026_cocoadile"
+    },
+    {
+      "id": "coconut-friend",
+      "source_url": "https://www.playadopt.me/discover/pets/coconut-friend",
+      "official_id": "summerfest_2025_coconut_friend"
+    },
+    {
+      "id": "cold-cube",
+      "source_url": "https://www.playadopt.me/discover/pets/cold-cube",
+      "official_id": "winter_2024_cold_cube"
+    },
+    {
+      "id": "copycat",
+      "source_url": "https://www.playadopt.me/discover/pets/copycat",
+      "official_id": "halloween_2026_copycat"
+    },
+    {
+      "id": "corgi",
+      "source_url": "https://www.playadopt.me/discover/pets/corgi",
+      "official_id": "basic_egg_2022_corgi"
+    },
+    {
+      "id": "corn-doggo",
+      "source_url": "https://www.playadopt.me/discover/pets/corn-doggo",
+      "official_id": "summerfest_2024_corn_doggo"
+    },
+    {
+      "id": "cow",
+      "source_url": "https://www.playadopt.me/discover/pets/cow",
+      "official_id": "cow"
+    },
+    {
+      "id": "cow-calf",
+      "source_url": "https://www.playadopt.me/discover/pets/cow-calf",
+      "official_id": "summerfest_2024_cow_calf"
+    },
+    {
+      "id": "coyote",
+      "source_url": "https://www.playadopt.me/discover/pets/coyote",
+      "official_id": "desert_2024_coyote"
+    },
+    {
+      "id": "cozy-mistletroll",
+      "source_url": "https://www.playadopt.me/discover/pets/cozy-mistletroll",
+      "official_id": "winter_2025_cozy_mistletroll"
+    },
+    {
+      "id": "crab",
+      "source_url": "https://www.playadopt.me/discover/pets/crab",
+      "official_id": "crab"
+    },
+    {
+      "id": "crimson-cape",
+      "source_url": "https://www.playadopt.me/discover/pets/crimson-cape",
+      "official_id": "fairytale_egg_2026_crimson_cape"
+    },
+    {
+      "id": "criosphinx",
+      "source_url": "https://www.playadopt.me/discover/pets/criosphinx",
+      "official_id": "desert_2024_criosphinx"
+    },
+    {
+      "id": "crocodile",
+      "source_url": "https://www.playadopt.me/discover/pets/crocodile",
+      "official_id": "crocodile"
+    },
+    {
+      "id": "crow",
+      "source_url": "https://www.playadopt.me/discover/pets/crow",
+      "official_id": "crow"
+    },
+    {
+      "id": "cryptid",
+      "source_url": "https://www.playadopt.me/discover/pets/cryptid",
+      "official_id": "halloween_2025_cryptid"
+    },
+    {
+      "id": "cuddly-candle",
+      "source_url": "https://www.playadopt.me/discover/pets/cuddly-candle",
+      "official_id": "sky_ux_2023_cuddly_candle"
+    },
+    {
+      "id": "cupid-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/cupid-dragon",
+      "official_id": "valentines_2025_cupid_dragon"
+    },
+    {
+      "id": "cute-a-cabra",
+      "source_url": "https://www.playadopt.me/discover/pets/cute-a-cabra",
+      "official_id": "halloween_2023_cuteacabra"
+    },
+    {
+      "id": "dalmatian",
+      "source_url": "https://www.playadopt.me/discover/pets/dalmatian",
+      "official_id": "santa_dog"
+    },
+    {
+      "id": "dancing-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/dancing-dragon",
+      "official_id": "lny_2022_dragon"
+    },
+    {
+      "id": "dango-penguins",
+      "source_url": "https://www.playadopt.me/discover/pets/dango-penguins",
+      "official_id": "penguins_2025_dango_penguins"
+    },
+    {
+      "id": "dark-choccybunny",
+      "source_url": "https://www.playadopt.me/discover/pets/dark-choccybunny",
+      "official_id": "sugarfest_2026_dark_choccybunny"
+    },
+    {
+      "id": "deathstalker-scorpion",
+      "source_url": "https://www.playadopt.me/discover/pets/deathstalker-scorpion",
+      "official_id": "desert_2024_deathstalker_scorpion"
+    },
+    {
+      "id": "deinonychus",
+      "source_url": "https://www.playadopt.me/discover/pets/deinonychus",
+      "official_id": "deinonychus"
+    },
+    {
+      "id": "diamond-albatross",
+      "source_url": "https://www.playadopt.me/discover/pets/diamond-albatross",
+      "official_id": "snow_2022_diamond_albatross"
+    },
+    {
+      "id": "diamond-amazon",
+      "source_url": "https://www.playadopt.me/discover/pets/diamond-amazon",
+      "official_id": "rain_2023_diamond_amazon"
+    },
+    {
+      "id": "diamond-butterfly",
+      "source_url": "https://www.playadopt.me/discover/pets/diamond-butterfly",
+      "official_id": "sanctuary_2022_diamond_premium_butterfly"
+    },
+    {
+      "id": "diamond-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/diamond-dragon",
+      "official_id": "diamond_dragon"
+    },
+    {
+      "id": "diamond-griffin",
+      "source_url": "https://www.playadopt.me/discover/pets/diamond-griffin",
+      "official_id": "diamond_griffin"
+    },
+    {
+      "id": "diamond-hamster",
+      "source_url": "https://www.playadopt.me/discover/pets/diamond-hamster",
+      "official_id": "hamstertime_2024_diamond_hamster"
+    },
+    {
+      "id": "diamond-hummingbird",
+      "source_url": "https://www.playadopt.me/discover/pets/diamond-hummingbird",
+      "official_id": "subscription_2024_diamond_hummingbird"
+    },
+    {
+      "id": "diamond-king-penguin",
+      "source_url": "https://www.playadopt.me/discover/pets/diamond-king-penguin",
+      "official_id": "ice_cream_refresh_2022_diamond_king_penguin"
+    },
+    {
+      "id": "diamond-ladybug",
+      "source_url": "https://www.playadopt.me/discover/pets/diamond-ladybug",
+      "official_id": "diamond_ladybug"
+    },
+    {
+      "id": "diamond-mahi-mahi",
+      "source_url": "https://www.playadopt.me/discover/pets/diamond-mahi-mahi",
+      "official_id": "beach_2024_diamond_mahi_mahi"
+    },
+    {
+      "id": "diamond-unicorn",
+      "source_url": "https://www.playadopt.me/discover/pets/diamond-unicorn",
+      "official_id": "diamond_unicorn"
+    },
+    {
+      "id": "dilophosaurus",
+      "source_url": "https://www.playadopt.me/discover/pets/dilophosaurus",
+      "official_id": "dilophosaurus"
+    },
+    {
+      "id": "dimension-drifter",
+      "source_url": "https://www.playadopt.me/discover/pets/dimension-drifter",
+      "official_id": "moon_2025_dimension_drifter"
+    },
+    {
+      "id": "dimorphodon",
+      "source_url": "https://www.playadopt.me/discover/pets/dimorphodon",
+      "official_id": "fossil_2024_dimorphodon"
+    },
+    {
+      "id": "dingo",
+      "source_url": "https://www.playadopt.me/discover/pets/dingo",
+      "official_id": "dingo"
+    },
+    {
+      "id": "dire-stag",
+      "source_url": "https://www.playadopt.me/discover/pets/dire-stag",
+      "official_id": "halloween_2023_dire_stag"
+    },
+    {
+      "id": "dire-wolf",
+      "source_url": "https://www.playadopt.me/discover/pets/dire-wolf",
+      "official_id": "egg_teaser_2026_dire_wolf"
+    },
+    {
+      "id": "dirty-ducky",
+      "source_url": "https://www.playadopt.me/discover/pets/dirty-ducky",
+      "official_id": "soggy_spring_2026_dirty_ducky"
+    },
+    {
+      "id": "dj-snooze",
+      "source_url": "https://www.playadopt.me/discover/pets/dj-snooze",
+      "official_id": "halloween_2025_dj_snooze"
+    },
+    {
+      "id": "dodo",
+      "source_url": "https://www.playadopt.me/discover/pets/dodo",
+      "official_id": "dodo"
+    },
+    {
+      "id": "dog",
+      "source_url": "https://www.playadopt.me/discover/pets/dog",
+      "official_id": "dog"
+    },
+    {
+      "id": "dolphin",
+      "source_url": "https://www.playadopt.me/discover/pets/dolphin",
+      "official_id": "dolphin"
+    },
+    {
+      "id": "donkey",
+      "source_url": "https://www.playadopt.me/discover/pets/donkey",
+      "official_id": "basic_egg_2022_donkey"
+    },
+    {
+      "id": "dotted-eggy",
+      "source_url": "https://www.playadopt.me/discover/pets/dotted-eggy",
+      "official_id": "easter_2024_dotted_eggy"
+    },
+    {
+      "id": "dracula-fish",
+      "source_url": "https://www.playadopt.me/discover/pets/dracula-fish",
+      "official_id": "ocean_2024_dracula_fish"
+    },
+    {
+      "id": "dracula-parrot",
+      "source_url": "https://www.playadopt.me/discover/pets/dracula-parrot",
+      "official_id": "halloween_2024_dracula_parrot"
+    },
+    {
+      "id": "dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/dragon",
+      "official_id": "dragon"
+    },
+    {
+      "id": "dragonfly",
+      "source_url": "https://www.playadopt.me/discover/pets/dragonfly",
+      "official_id": "basic_egg_2022_dragonfly"
+    },
+    {
+      "id": "dragonfruit-fox",
+      "source_url": "https://www.playadopt.me/discover/pets/dragonfruit-fox",
+      "official_id": "food_pets_2026_dragonfruit_fox"
+    },
+    {
+      "id": "drake",
+      "source_url": "https://www.playadopt.me/discover/pets/drake",
+      "official_id": "drake"
+    },
+    {
+      "id": "dugong",
+      "source_url": "https://www.playadopt.me/discover/pets/dugong",
+      "official_id": "japan_2022_dugong"
+    },
+    {
+      "id": "dylan",
+      "source_url": "https://www.playadopt.me/discover/pets/dylan",
+      "official_id": "dolls_2023_dylan"
+    },
+    {
+      "id": "easter-bunny",
+      "source_url": "https://www.playadopt.me/discover/pets/easter-bunny",
+      "official_id": "sugarfest_2026_easter_bunny"
+    },
+    {
+      "id": "eel",
+      "source_url": "https://www.playadopt.me/discover/pets/eel",
+      "official_id": "random_pets_sept_2023_eel"
+    },
+    {
+      "id": "eggnog-dog",
+      "source_url": "https://www.playadopt.me/discover/pets/eggnog-dog",
+      "official_id": "winter_2023_eggnog_dog"
+    },
+    {
+      "id": "eggnog-hare",
+      "source_url": "https://www.playadopt.me/discover/pets/eggnog-hare",
+      "official_id": "winter_2023_eggnog_hare"
+    },
+    {
+      "id": "ehecatl",
+      "source_url": "https://www.playadopt.me/discover/pets/ehecatl",
+      "official_id": "aztec_egg_2025_ehecatl"
+    },
+    {
+      "id": "elasmosaurus",
+      "source_url": "https://www.playadopt.me/discover/pets/elasmosaurus",
+      "official_id": "fossil_2024_elasmosaurus"
+    },
+    {
+      "id": "elephant",
+      "source_url": "https://www.playadopt.me/discover/pets/elephant",
+      "official_id": "elephant"
+    },
+    {
+      "id": "emberlight",
+      "source_url": "https://www.playadopt.me/discover/pets/emberlight",
+      "official_id": "pet_recycler_2025_emberlight"
+    },
+    {
+      "id": "emperor-gorilla",
+      "source_url": "https://www.playadopt.me/discover/pets/emperor-gorilla",
+      "official_id": "gorilla_fair_2023_emperor_gorilla"
+    },
+    {
+      "id": "emperor-shrimp",
+      "source_url": "https://www.playadopt.me/discover/pets/emperor-shrimp",
+      "official_id": "summer_2025_emperor_shrimp"
+    },
+    {
+      "id": "emu",
+      "source_url": "https://www.playadopt.me/discover/pets/emu",
+      "official_id": "emu"
+    },
+    {
+      "id": "english-sheepdog",
+      "source_url": "https://www.playadopt.me/discover/pets/english-sheepdog",
+      "official_id": "farm_2023_sheepdog"
+    },
+    {
+      "id": "ermine",
+      "source_url": "https://www.playadopt.me/discover/pets/ermine",
+      "official_id": "winter_2022_ermine"
+    },
+    {
+      "id": "evil-basilisk",
+      "source_url": "https://www.playadopt.me/discover/pets/evil-basilisk",
+      "official_id": "halloween_2022_evil_basilisk"
+    },
+    {
+      "id": "evil-chick",
+      "source_url": "https://www.playadopt.me/discover/pets/evil-chick",
+      "official_id": "halloween_2024_evil_chick"
+    },
+    {
+      "id": "evil-chickatrice",
+      "source_url": "https://www.playadopt.me/discover/pets/evil-chickatrice",
+      "official_id": "halloween_2022_evil_chickatrice"
+    },
+    {
+      "id": "evil-rock",
+      "source_url": "https://www.playadopt.me/discover/pets/evil-rock",
+      "official_id": "halloween_2023_evil_rock"
+    },
+    {
+      "id": "evil-unicorn",
+      "source_url": "https://www.playadopt.me/discover/pets/evil-unicorn",
+      "official_id": "evil_unicorn"
+    },
+    {
+      "id": "fairy-bat-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/fairy-bat-dragon",
+      "official_id": "winter_2024_fairy_bat_dragon"
+    },
+    {
+      "id": "fallow-deer",
+      "source_url": "https://www.playadopt.me/discover/pets/fallow-deer",
+      "official_id": "woodland_2022_fallow_deer"
+    },
+    {
+      "id": "fanghorn-tortoise",
+      "source_url": "https://www.playadopt.me/discover/pets/fanghorn-tortoise",
+      "official_id": "lunar_2024_fanghorn_tortoise"
+    },
+    {
+      "id": "feesh",
+      "source_url": "https://www.playadopt.me/discover/pets/feesh",
+      "official_id": "meme_2023_feesh"
+    },
+    {
+      "id": "fennec-fox",
+      "source_url": "https://www.playadopt.me/discover/pets/fennec-fox",
+      "official_id": "fennec"
+    },
+    {
+      "id": "field-mouse",
+      "source_url": "https://www.playadopt.me/discover/pets/field-mouse",
+      "official_id": "springfest_2023_field_mouse"
+    },
+    {
+      "id": "fire-foal",
+      "source_url": "https://www.playadopt.me/discover/pets/fire-foal",
+      "official_id": "lny_2026_fire_foal"
+    },
+    {
+      "id": "fire-mare",
+      "source_url": "https://www.playadopt.me/discover/pets/fire-mare",
+      "official_id": "lny_2026_fire_mare"
+    },
+    {
+      "id": "fire-stallion",
+      "source_url": "https://www.playadopt.me/discover/pets/fire-stallion",
+      "official_id": "lny_2026_fire_stallion"
+    },
+    {
+      "id": "firefighter-gibbon",
+      "source_url": "https://www.playadopt.me/discover/pets/firefighter-gibbon",
+      "official_id": "gibbon_2025_firefighter_gibbon"
+    },
+    {
+      "id": "firefly",
+      "source_url": "https://www.playadopt.me/discover/pets/firefly",
+      "official_id": "camping_2023_firefly"
+    },
+    {
+      "id": "flaming-fox",
+      "source_url": "https://www.playadopt.me/discover/pets/flaming-fox",
+      "official_id": "fire_dimension_2024_flaming_fox"
+    },
+    {
+      "id": "flaming-zebra",
+      "source_url": "https://www.playadopt.me/discover/pets/flaming-zebra",
+      "official_id": "lures_2023_flaming_zebra"
+    },
+    {
+      "id": "flamingo",
+      "source_url": "https://www.playadopt.me/discover/pets/flamingo",
+      "official_id": "flamingo"
+    },
+    {
+      "id": "fleur-de-ice",
+      "source_url": "https://www.playadopt.me/discover/pets/fleur-de-ice",
+      "official_id": "winter_2023_fleur_de_ice"
+    },
+    {
+      "id": "floral-eggy",
+      "source_url": "https://www.playadopt.me/discover/pets/floral-eggy",
+      "official_id": "easter_2024_floral_eggy"
+    },
+    {
+      "id": "flower-power-duckling",
+      "source_url": "https://www.playadopt.me/discover/pets/flower-power-duckling",
+      "official_id": "springfest_2023_flower_power_duckling"
+    },
+    {
+      "id": "flying-fish",
+      "source_url": "https://www.playadopt.me/discover/pets/flying-fish",
+      "official_id": "summerfest_2023_flying_fish"
+    },
+    {
+      "id": "forest-sprite",
+      "source_url": "https://www.playadopt.me/discover/pets/forest-sprite",
+      "official_id": "summer_2026_forest_sprite"
+    },
+    {
+      "id": "fossa",
+      "source_url": "https://www.playadopt.me/discover/pets/fossa",
+      "official_id": "jungle_2023_fossa"
+    },
+    {
+      "id": "frankenfeline",
+      "source_url": "https://www.playadopt.me/discover/pets/frankenfeline",
+      "official_id": "halloween_2024_franken_feline"
+    },
+    {
+      "id": "french-bulldog",
+      "source_url": "https://www.playadopt.me/discover/pets/french-bulldog",
+      "official_id": "house_pets_2025_french_bulldog"
+    },
+    {
+      "id": "frog",
+      "source_url": "https://www.playadopt.me/discover/pets/frog",
+      "official_id": "frog"
+    },
+    {
+      "id": "frogspawn",
+      "source_url": "https://www.playadopt.me/discover/pets/frogspawn",
+      "official_id": "meme_2023_frogspawn"
+    },
+    {
+      "id": "frost-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/frost-dragon",
+      "official_id": "frost_dragon"
+    },
+    {
+      "id": "frost-fury",
+      "source_url": "https://www.playadopt.me/discover/pets/frost-fury",
+      "official_id": "frost_fury"
+    },
+    {
+      "id": "frost-phoenix",
+      "source_url": "https://www.playadopt.me/discover/pets/frost-phoenix",
+      "official_id": "winter_2025_frost_phoenix"
+    },
+    {
+      "id": "frost-unicorn",
+      "source_url": "https://www.playadopt.me/discover/pets/frost-unicorn",
+      "official_id": "modular_castles_2023_frost_unicorn"
+    },
+    {
+      "id": "frostbite-bear",
+      "source_url": "https://www.playadopt.me/discover/pets/frostbite-bear",
+      "official_id": "ice_dimension_2025_frostbite_bear"
+    },
+    {
+      "id": "frostbite-cub",
+      "source_url": "https://www.playadopt.me/discover/pets/frostbite-cub",
+      "official_id": "winter_2024_frostbite_cub"
+    },
+    {
+      "id": "frostclaw",
+      "source_url": "https://www.playadopt.me/discover/pets/frostclaw",
+      "official_id": "winter_2024_frostclaw"
+    },
+    {
+      "id": "frozen-penguin",
+      "source_url": "https://www.playadopt.me/discover/pets/frozen-penguin",
+      "official_id": "ice_dimension_2025_chilly_penguin"
+    },
+    {
+      "id": "gaelic-fae",
+      "source_url": "https://www.playadopt.me/discover/pets/gaelic-fae",
+      "official_id": "st_patricks_2025_gaelic_fae"
+    },
+    {
+      "id": "galapagos-sea-lion",
+      "source_url": "https://www.playadopt.me/discover/pets/galapagos-sea-lion",
+      "official_id": "endangered_2026_galapagos_sea_lion"
+    },
+    {
+      "id": "garden-snake",
+      "source_url": "https://www.playadopt.me/discover/pets/garden-snake",
+      "official_id": "garden_2024_garden_snake"
+    },
+    {
+      "id": "gargoyle",
+      "source_url": "https://www.playadopt.me/discover/pets/gargoyle",
+      "official_id": "urban_2023_gargoyle"
+    },
+    {
+      "id": "gecko",
+      "source_url": "https://www.playadopt.me/discover/pets/gecko",
+      "official_id": "seasia_2023_gecko"
+    },
+    {
+      "id": "gecko-ducky",
+      "source_url": "https://www.playadopt.me/discover/pets/gecko-ducky",
+      "official_id": "journey_pass_2026_gecko_duck"
+    },
+    {
+      "id": "general-sheepdog",
+      "source_url": "https://www.playadopt.me/discover/pets/general-sheepdog",
+      "official_id": "summer_2026_sheepdog"
+    },
+    {
+      "id": "german-shepherd",
+      "source_url": "https://www.playadopt.me/discover/pets/german-shepherd",
+      "official_id": "inspector_shepherd_2026_german_shepherd"
+    },
+    {
+      "id": "ghost",
+      "source_url": "https://www.playadopt.me/discover/pets/ghost",
+      "official_id": "halloween_2023_ghost"
+    },
+    {
+      "id": "ghost-bunny",
+      "source_url": "https://www.playadopt.me/discover/pets/ghost-bunny",
+      "official_id": "ghost_bunny"
+    },
+    {
+      "id": "ghost-chick",
+      "source_url": "https://www.playadopt.me/discover/pets/ghost-chick",
+      "official_id": "halloween_2024_ghost_chick"
+    },
+    {
+      "id": "ghost-dog",
+      "source_url": "https://www.playadopt.me/discover/pets/ghost-dog",
+      "official_id": "halloween_2023_ghost_dog"
+    },
+    {
+      "id": "ghost-wolf",
+      "source_url": "https://www.playadopt.me/discover/pets/ghost-wolf",
+      "official_id": "halloween_2022_ghost_wolf"
+    },
+    {
+      "id": "ghostly-cat",
+      "source_url": "https://www.playadopt.me/discover/pets/ghostly-cat",
+      "official_id": "halloween_2025_ghostly_cat"
+    },
+    {
+      "id": "giant-anteater",
+      "source_url": "https://www.playadopt.me/discover/pets/giant-anteater",
+      "official_id": "jungle_2023_anteater"
+    },
+    {
+      "id": "giant-black-scarab",
+      "source_url": "https://www.playadopt.me/discover/pets/giant-black-scarab",
+      "official_id": "desert_2022_black_scarab"
+    },
+    {
+      "id": "giant-blue-scarab",
+      "source_url": "https://www.playadopt.me/discover/pets/giant-blue-scarab",
+      "official_id": "desert_2022_blue_scarab"
+    },
+    {
+      "id": "giant-gold-scarab",
+      "source_url": "https://www.playadopt.me/discover/pets/giant-gold-scarab",
+      "official_id": "desert_2022_gold_scarab"
+    },
+    {
+      "id": "giant-panda",
+      "source_url": "https://www.playadopt.me/discover/pets/giant-panda",
+      "official_id": "pet_recycler_2025_giant_panda"
+    },
+    {
+      "id": "gibbon",
+      "source_url": "https://www.playadopt.me/discover/pets/gibbon",
+      "official_id": "gibbon_2025_gibbon"
+    },
+    {
+      "id": "gila-monster",
+      "source_url": "https://www.playadopt.me/discover/pets/gila-monster",
+      "official_id": "desert_2024_gila_monster"
+    },
+    {
+      "id": "gilded-snake",
+      "source_url": "https://www.playadopt.me/discover/pets/gilded-snake",
+      "official_id": "lunar_2025_gilded_snake"
+    },
+    {
+      "id": "ginger-cat",
+      "source_url": "https://www.playadopt.me/discover/pets/ginger-cat",
+      "official_id": "ginger_cat"
+    },
+    {
+      "id": "gingerbread-hare",
+      "source_url": "https://www.playadopt.me/discover/pets/gingerbread-hare",
+      "official_id": "winter_2023_gingerbread_hare"
+    },
+    {
+      "id": "gingerbread-mouse",
+      "source_url": "https://www.playadopt.me/discover/pets/gingerbread-mouse",
+      "official_id": "winter_2023_gingerbread_mouse"
+    },
+    {
+      "id": "gingerbread-reindeer",
+      "source_url": "https://www.playadopt.me/discover/pets/gingerbread-reindeer",
+      "official_id": "winter_2022_gingerbread_reindeer"
+    },
+    {
+      "id": "giraffe",
+      "source_url": "https://www.playadopt.me/discover/pets/giraffe",
+      "official_id": "giraffe"
+    },
+    {
+      "id": "glacier-kitsune",
+      "source_url": "https://www.playadopt.me/discover/pets/glacier-kitsune",
+      "official_id": "winter_2023_glacier_kitsune"
+    },
+    {
+      "id": "glacier-moth",
+      "source_url": "https://www.playadopt.me/discover/pets/glacier-moth",
+      "official_id": "ugc_rewards_2023_glacier_moth"
+    },
+    {
+      "id": "glormy-crab",
+      "source_url": "https://www.playadopt.me/discover/pets/glormy-crab",
+      "official_id": "lss_2026_glormy_crab"
+    },
+    {
+      "id": "glormy-dolphin",
+      "source_url": "https://www.playadopt.me/discover/pets/glormy-dolphin",
+      "official_id": "moon_2025_glormy_dolphin"
+    },
+    {
+      "id": "glormy-hound",
+      "source_url": "https://www.playadopt.me/discover/pets/glormy-hound",
+      "official_id": "celestial_2024_glormy_hound"
+    },
+    {
+      "id": "glormy-leo",
+      "source_url": "https://www.playadopt.me/discover/pets/glormy-leo",
+      "official_id": "celestial_2024_glormy_leo"
+    },
+    {
+      "id": "glyptodon",
+      "source_url": "https://www.playadopt.me/discover/pets/glyptodon",
+      "official_id": "glyptodon"
+    },
+    {
+      "id": "glyptodon-ducky",
+      "source_url": "https://www.playadopt.me/discover/pets/glyptodon-ducky",
+      "official_id": "soggy_spring_2026_glyptodon_ducky"
+    },
+    {
+      "id": "goat",
+      "source_url": "https://www.playadopt.me/discover/pets/goat",
+      "official_id": "pride_2022_goat"
+    },
+    {
+      "id": "gold-mahi-mahi",
+      "source_url": "https://www.playadopt.me/discover/pets/gold-mahi-mahi",
+      "official_id": "beach_2024_gold_mahi_mahi"
+    },
+    {
+      "id": "golden-albatross",
+      "source_url": "https://www.playadopt.me/discover/pets/golden-albatross",
+      "official_id": "snow_2022_golden_albatross"
+    },
+    {
+      "id": "golden-chow-chow",
+      "source_url": "https://www.playadopt.me/discover/pets/golden-chow-chow",
+      "official_id": "vip_2022_chow_chow_gold"
+    },
+    {
+      "id": "golden-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/golden-dragon",
+      "official_id": "golden_dragon"
+    },
+    {
+      "id": "golden-griffin",
+      "source_url": "https://www.playadopt.me/discover/pets/golden-griffin",
+      "official_id": "golden_griffin"
+    },
+    {
+      "id": "golden-hamster",
+      "source_url": "https://www.playadopt.me/discover/pets/golden-hamster",
+      "official_id": "hamstertime_2024_golden_hamster"
+    },
+    {
+      "id": "golden-hummingbird",
+      "source_url": "https://www.playadopt.me/discover/pets/golden-hummingbird",
+      "official_id": "subscription_2024_gold_hummingbird"
+    },
+    {
+      "id": "golden-jaguar",
+      "source_url": "https://www.playadopt.me/discover/pets/golden-jaguar",
+      "official_id": "ddlm_2024_golden_jaguar"
+    },
+    {
+      "id": "golden-king-penguin",
+      "source_url": "https://www.playadopt.me/discover/pets/golden-king-penguin",
+      "official_id": "ice_cream_refresh_2022_golden_king_penguin"
+    },
+    {
+      "id": "golden-ladybug",
+      "source_url": "https://www.playadopt.me/discover/pets/golden-ladybug",
+      "official_id": "golden_ladybug"
+    },
+    {
+      "id": "golden-penguin",
+      "source_url": "https://www.playadopt.me/discover/pets/golden-penguin",
+      "official_id": "golden_penguin"
+    },
+    {
+      "id": "golden-rat",
+      "source_url": "https://www.playadopt.me/discover/pets/golden-rat",
+      "official_id": "golden_rat"
+    },
+    {
+      "id": "golden-tortoise-beetle",
+      "source_url": "https://www.playadopt.me/discover/pets/golden-tortoise-beetle",
+      "official_id": "garden_2024_golden_tortoise_beetle"
+    },
+    {
+      "id": "golden-unicorn",
+      "source_url": "https://www.playadopt.me/discover/pets/golden-unicorn",
+      "official_id": "golden_unicorn"
+    },
+    {
+      "id": "golden-walrus",
+      "source_url": "https://www.playadopt.me/discover/pets/golden-walrus",
+      "official_id": "winter_2021_golden_walrus"
+    },
+    {
+      "id": "goldfish",
+      "source_url": "https://www.playadopt.me/discover/pets/goldfish",
+      "official_id": "pool_2023_goldfish"
+    },
+    {
+      "id": "goldhorn",
+      "source_url": "https://www.playadopt.me/discover/pets/goldhorn",
+      "official_id": "goldhorn"
+    },
+    {
+      "id": "goose",
+      "source_url": "https://www.playadopt.me/discover/pets/goose",
+      "official_id": "springfest_2023_goose"
+    },
+    {
+      "id": "gorilla",
+      "source_url": "https://www.playadopt.me/discover/pets/gorilla",
+      "official_id": "gorilla_fair_2023_gorilla"
+    },
+    {
+      "id": "granny-wolf",
+      "source_url": "https://www.playadopt.me/discover/pets/granny-wolf",
+      "official_id": "fairytale_egg_2026_granny_wolf"
+    },
+    {
+      "id": "grave-owl",
+      "source_url": "https://www.playadopt.me/discover/pets/grave-owl",
+      "official_id": "ddlm_2024_grave_owl"
+    },
+    {
+      "id": "great-pyrenees",
+      "source_url": "https://www.playadopt.me/discover/pets/great-pyrenees",
+      "official_id": "winter_2024_great_pyrenees"
+    },
+    {
+      "id": "green-amazon",
+      "source_url": "https://www.playadopt.me/discover/pets/green-amazon",
+      "official_id": "rain_2023_green_amazon"
+    },
+    {
+      "id": "green-butterfly",
+      "source_url": "https://www.playadopt.me/discover/pets/green-butterfly",
+      "official_id": "sanctuary_2022_green_premium_butterfly"
+    },
+    {
+      "id": "green-chested-pheasant",
+      "source_url": "https://www.playadopt.me/discover/pets/green-chested-pheasant",
+      "official_id": "fall_2022_pheasant_green"
+    },
+    {
+      "id": "griffin",
+      "source_url": "https://www.playadopt.me/discover/pets/griffin",
+      "official_id": "griffin"
+    },
+    {
+      "id": "grim-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/grim-dragon",
+      "official_id": "halloween_2024_grim_dragon"
+    },
+    {
+      "id": "grinmoire",
+      "source_url": "https://www.playadopt.me/discover/pets/grinmoire",
+      "official_id": "sky_ux_2023_grinmoire"
+    },
+    {
+      "id": "ground-sloth",
+      "source_url": "https://www.playadopt.me/discover/pets/ground-sloth",
+      "official_id": "ground_sloth"
+    },
+    {
+      "id": "groundhog",
+      "source_url": "https://www.playadopt.me/discover/pets/groundhog",
+      "official_id": "sofahog_2024_groundhog"
+    },
+    {
+      "id": "guardian-lion",
+      "source_url": "https://www.playadopt.me/discover/pets/guardian-lion",
+      "official_id": "guardian_lion"
+    },
+    {
+      "id": "gumball-caterpillar",
+      "source_url": "https://www.playadopt.me/discover/pets/gumball-caterpillar",
+      "official_id": "sugarfest_2026_gumball_caterpillar"
+    },
+    {
+      "id": "gummy-guana",
+      "source_url": "https://www.playadopt.me/discover/pets/gummy-guana",
+      "official_id": "sugarfest_2026_gummy_guana"
+    },
+    {
+      "id": "haetae",
+      "source_url": "https://www.playadopt.me/discover/pets/haetae",
+      "official_id": "lunar_2025_haetae"
+    },
+    {
+      "id": "halloween-black-mummy-cat",
+      "source_url": "https://www.playadopt.me/discover/pets/halloween-black-mummy-cat",
+      "official_id": "halloween_2021_black_mummy_cat"
+    },
+    {
+      "id": "halloween-blue-scorpion",
+      "source_url": "https://www.playadopt.me/discover/pets/halloween-blue-scorpion",
+      "official_id": "halloween_2021_scorpion"
+    },
+    {
+      "id": "halloween-evil-dachshund",
+      "source_url": "https://www.playadopt.me/discover/pets/halloween-evil-dachshund",
+      "official_id": "halloween_2021_evil_dachshund"
+    },
+    {
+      "id": "halloween-golden-mummy-cat",
+      "source_url": "https://www.playadopt.me/discover/pets/halloween-golden-mummy-cat",
+      "official_id": "halloween_2021_golden_mummy_cat"
+    },
+    {
+      "id": "halloween-white-ghost-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/halloween-white-ghost-dragon",
+      "official_id": "halloween_2021_ghost_dragon"
+    },
+    {
+      "id": "halloween-white-mummy-cat",
+      "source_url": "https://www.playadopt.me/discover/pets/halloween-white-mummy-cat",
+      "official_id": "halloween_2021_white_mummy_cat"
+    },
+    {
+      "id": "halloween-white-skeleton-dog",
+      "source_url": "https://www.playadopt.me/discover/pets/halloween-white-skeleton-dog",
+      "official_id": "halloween_2021_skele_dog"
+    },
+    {
+      "id": "hammerhead-shark",
+      "source_url": "https://www.playadopt.me/discover/pets/hammerhead-shark",
+      "official_id": "summerfest_2025_hammerhead_shark"
+    },
+    {
+      "id": "hamster",
+      "source_url": "https://www.playadopt.me/discover/pets/hamster",
+      "official_id": "hamstertime_2024_hamster"
+    },
+    {
+      "id": "happy-clam",
+      "source_url": "https://www.playadopt.me/discover/pets/happy-clam",
+      "official_id": "summerfest_2023_happy_clam"
+    },
+    {
+      "id": "happy-duckling",
+      "source_url": "https://www.playadopt.me/discover/pets/happy-duckling",
+      "official_id": "springfest_2023_happy_duckling"
+    },
+    {
+      "id": "hare",
+      "source_url": "https://www.playadopt.me/discover/pets/hare",
+      "official_id": "springfest_2023_hare"
+    },
+    {
+      "id": "harp-seal",
+      "source_url": "https://www.playadopt.me/discover/pets/harp-seal",
+      "official_id": "winter_2023_harp_seal"
+    },
+    {
+      "id": "hawk",
+      "source_url": "https://www.playadopt.me/discover/pets/hawk",
+      "official_id": "woodland_2022_hawk"
+    },
+    {
+      "id": "headless-horse",
+      "source_url": "https://www.playadopt.me/discover/pets/headless-horse",
+      "official_id": "halloween_2024_headless_horse"
+    },
+    {
+      "id": "hedgehog",
+      "source_url": "https://www.playadopt.me/discover/pets/hedgehog",
+      "official_id": "elf_hedgehog"
+    },
+    {
+      "id": "hermit-crab",
+      "source_url": "https://www.playadopt.me/discover/pets/hermit-crab",
+      "official_id": "summerfest_2023_hermit_crab"
+    },
+    {
+      "id": "hero-gibbon",
+      "source_url": "https://www.playadopt.me/discover/pets/hero-gibbon",
+      "official_id": "gibbon_2025_hero_gibbon"
+    },
+    {
+      "id": "highland-cow",
+      "source_url": "https://www.playadopt.me/discover/pets/highland-cow",
+      "official_id": "scottish_2023_highland_cow"
+    },
+    {
+      "id": "hippo",
+      "source_url": "https://www.playadopt.me/discover/pets/hippo",
+      "official_id": "danger_2023_hippo"
+    },
+    {
+      "id": "hippogriff",
+      "source_url": "https://www.playadopt.me/discover/pets/hippogriff",
+      "official_id": "gifthat_november_2024_hippogriff"
+    },
+    {
+      "id": "honey-badger",
+      "source_url": "https://www.playadopt.me/discover/pets/honey-badger",
+      "official_id": "ugc_refresh_2024_honey_badger"
+    },
+    {
+      "id": "hopbop",
+      "source_url": "https://www.playadopt.me/discover/pets/hopbop",
+      "official_id": "moon_2025_hopbop"
+    },
+    {
+      "id": "horse",
+      "source_url": "https://www.playadopt.me/discover/pets/horse",
+      "official_id": "horse"
+    },
+    {
+      "id": "hot-doggo",
+      "source_url": "https://www.playadopt.me/discover/pets/hot-doggo",
+      "official_id": "summerfest_2023_hotdog_dog"
+    },
+    {
+      "id": "humbug",
+      "source_url": "https://www.playadopt.me/discover/pets/humbug",
+      "official_id": "winter_2025_humbug"
+    },
+    {
+      "id": "hummingbird",
+      "source_url": "https://www.playadopt.me/discover/pets/hummingbird",
+      "official_id": "subscription_2024_hummingbird"
+    },
+    {
+      "id": "huntsman-robin",
+      "source_url": "https://www.playadopt.me/discover/pets/huntsman-robin",
+      "official_id": "fairytale_egg_2026_huntsrobin"
+    },
+    {
+      "id": "husky",
+      "source_url": "https://www.playadopt.me/discover/pets/husky",
+      "official_id": "winter_2021_husky"
+    },
+    {
+      "id": "hydra",
+      "source_url": "https://www.playadopt.me/discover/pets/hydra",
+      "official_id": "hydra"
+    },
+    {
+      "id": "hyena",
+      "source_url": "https://www.playadopt.me/discover/pets/hyena",
+      "official_id": "hyena"
+    },
+    {
+      "id": "ibex",
+      "source_url": "https://www.playadopt.me/discover/pets/ibex",
+      "official_id": "random_pets_2022_ibex"
+    },
+    {
+      "id": "ibis",
+      "source_url": "https://www.playadopt.me/discover/pets/ibis",
+      "official_id": "japan_2022_ibis"
+    },
+    {
+      "id": "ice-cream-hermit-crab",
+      "source_url": "https://www.playadopt.me/discover/pets/ice-cream-hermit-crab",
+      "official_id": "summerfest_2023_ice_cream_crab"
+    },
+    {
+      "id": "ice-cube",
+      "source_url": "https://www.playadopt.me/discover/pets/ice-cube",
+      "official_id": "winter_2024_ice_cube"
+    },
+    {
+      "id": "ice-golem",
+      "source_url": "https://www.playadopt.me/discover/pets/ice-golem",
+      "official_id": "winter_2021_ice_golem"
+    },
+    {
+      "id": "ice-moth-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/ice-moth-dragon",
+      "official_id": "winter_2022_ice_moth_dragon"
+    },
+    {
+      "id": "ice-wolf",
+      "source_url": "https://www.playadopt.me/discover/pets/ice-wolf",
+      "official_id": "winter_2022_ice_wolf"
+    },
+    {
+      "id": "icy-porcupine",
+      "source_url": "https://www.playadopt.me/discover/pets/icy-porcupine",
+      "official_id": "ice_dimension_2025_icy_porcupine"
+    },
+    {
+      "id": "indian-flying-fox",
+      "source_url": "https://www.playadopt.me/discover/pets/indian-flying-fox",
+      "official_id": "halloween_2024_indian_flying_fox"
+    },
+    {
+      "id": "indian-leopard",
+      "source_url": "https://www.playadopt.me/discover/pets/indian-leopard",
+      "official_id": "urban_2023_indian_leopard"
+    },
+    {
+      "id": "influencer-gibbon",
+      "source_url": "https://www.playadopt.me/discover/pets/influencer-gibbon",
+      "official_id": "gibbon_2025_influencer_gibbon"
+    },
+    {
+      "id": "inmate-capuchin-monkey",
+      "source_url": "https://www.playadopt.me/discover/pets/inmate-capuchin-monkey",
+      "official_id": "capuchin_2024_inmate_capuchin_monkey"
+    },
+    {
+      "id": "irish-elk",
+      "source_url": "https://www.playadopt.me/discover/pets/irish-elk",
+      "official_id": "winter_2022_irish_elk"
+    },
+    {
+      "id": "irish-setter",
+      "source_url": "https://www.playadopt.me/discover/pets/irish-setter",
+      "official_id": "summer_2026_irish_setter"
+    },
+    {
+      "id": "irish-water-spaniel",
+      "source_url": "https://www.playadopt.me/discover/pets/irish-water-spaniel",
+      "official_id": "ugc_rewards_2022_irish_water_spaniel"
+    },
+    {
+      "id": "island-tarsier",
+      "source_url": "https://www.playadopt.me/discover/pets/island-tarsier",
+      "official_id": "summerfest_2025_island_tarsier"
+    },
+    {
+      "id": "jacobin-pigeon",
+      "source_url": "https://www.playadopt.me/discover/pets/jacobin-pigeon",
+      "official_id": "halloween_2026_jacobean_pigeon"
+    },
+    {
+      "id": "japanese-snow-fairy",
+      "source_url": "https://www.playadopt.me/discover/pets/japanese-snow-fairy",
+      "official_id": "winter_2025_japanese_snow_fairy"
+    },
+    {
+      "id": "jekyll-hydra",
+      "source_url": "https://www.playadopt.me/discover/pets/jekyll-hydra",
+      "official_id": "halloween_2024_jekyll_hydra"
+    },
+    {
+      "id": "jellyfish",
+      "source_url": "https://www.playadopt.me/discover/pets/jellyfish",
+      "official_id": "ugc_refresh_2024_jellyfish"
+    },
+    {
+      "id": "jester-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/jester-dragon",
+      "official_id": "halloween_2026_jester_dragon"
+    },
+    {
+      "id": "jiggly-jerboa",
+      "source_url": "https://www.playadopt.me/discover/pets/jiggly-jerboa",
+      "official_id": "sugarfest_2026_jiggly_jerboa"
+    },
+    {
+      "id": "jousting-horse",
+      "source_url": "https://www.playadopt.me/discover/pets/jousting-horse",
+      "official_id": "halloween_2022_jousting_horse"
+    },
+    {
+      "id": "jumping-spider",
+      "source_url": "https://www.playadopt.me/discover/pets/jumping-spider",
+      "official_id": "halloween_2025_spider"
+    },
+    {
+      "id": "jumpscare",
+      "source_url": "https://www.playadopt.me/discover/pets/jumpscare",
+      "official_id": "halloween_2026_jump_scare"
+    },
+    {
+      "id": "kage-crow",
+      "source_url": "https://www.playadopt.me/discover/pets/kage-crow",
+      "official_id": "spring_2025_kage_crow"
+    },
+    {
+      "id": "kaijunior",
+      "source_url": "https://www.playadopt.me/discover/pets/kaijunior",
+      "official_id": "spring_2025_spotted_kaijunior"
+    },
+    {
+      "id": "kakapo",
+      "source_url": "https://www.playadopt.me/discover/pets/kakapo",
+      "official_id": "endangered_2026_kakapo"
+    },
+    {
+      "id": "kangaroo",
+      "source_url": "https://www.playadopt.me/discover/pets/kangaroo",
+      "official_id": "kangaroo"
+    },
+    {
+      "id": "kappakid",
+      "source_url": "https://www.playadopt.me/discover/pets/kappakid",
+      "official_id": "spring_2025_kappakid"
+    },
+    {
+      "id": "karate-gorilla",
+      "source_url": "https://www.playadopt.me/discover/pets/karate-gorilla",
+      "official_id": "gorilla_fair_2023_karate_gorilla"
+    },
+    {
+      "id": "kelp-captain",
+      "source_url": "https://www.playadopt.me/discover/pets/kelp-captain",
+      "official_id": "summerfest_2025_kelp_captain"
+    },
+    {
+      "id": "kelp-crewmate",
+      "source_url": "https://www.playadopt.me/discover/pets/kelp-crewmate",
+      "official_id": "summerfest_2025_kelp_crewmate"
+    },
+    {
+      "id": "kelp-hunter",
+      "source_url": "https://www.playadopt.me/discover/pets/kelp-hunter",
+      "official_id": "summerfest_2025_kelp_hunter"
+    },
+    {
+      "id": "kelp-raider",
+      "source_url": "https://www.playadopt.me/discover/pets/kelp-raider",
+      "official_id": "summerfest_2025_kelp_raider"
+    },
+    {
+      "id": "kid-goat",
+      "source_url": "https://www.playadopt.me/discover/pets/kid-goat",
+      "official_id": "summerfest_2024_kid_goat"
+    },
+    {
+      "id": "king-bee",
+      "source_url": "https://www.playadopt.me/discover/pets/king-bee",
+      "official_id": "king_bee"
+    },
+    {
+      "id": "king-penguin",
+      "source_url": "https://www.playadopt.me/discover/pets/king-penguin",
+      "official_id": "ice_cream_refresh_2022_king_penguin"
+    },
+    {
+      "id": "kirin",
+      "source_url": "https://www.playadopt.me/discover/pets/kirin",
+      "official_id": "kirin"
+    },
+    {
+      "id": "kitsune",
+      "source_url": "https://www.playadopt.me/discover/pets/kitsune",
+      "official_id": "kitsune"
+    },
+    {
+      "id": "kitty-bat",
+      "source_url": "https://www.playadopt.me/discover/pets/kitty-bat",
+      "official_id": "halloween_2025_bat_cat"
+    },
+    {
+      "id": "kiwi",
+      "source_url": "https://www.playadopt.me/discover/pets/kiwi",
+      "official_id": "kiwi_2023_kiwi"
+    },
+    {
+      "id": "kiwi-kiwi",
+      "source_url": "https://www.playadopt.me/discover/pets/kiwi-kiwi",
+      "official_id": "releaser_refresh_2026_kiwi_kiwi"
+    },
+    {
+      "id": "koala",
+      "source_url": "https://www.playadopt.me/discover/pets/koala",
+      "official_id": "koala"
+    },
+    {
+      "id": "koi-carp",
+      "source_url": "https://www.playadopt.me/discover/pets/koi-carp",
+      "official_id": "japan_2022_koi_carp"
+    },
+    {
+      "id": "komodo-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/komodo-dragon",
+      "official_id": "seasia_2023_komodo_dragon"
+    },
+    {
+      "id": "kookaburra",
+      "source_url": "https://www.playadopt.me/discover/pets/kookaburra",
+      "official_id": "aussie_2024_kookaburra"
+    },
+    {
+      "id": "kraken",
+      "source_url": "https://www.playadopt.me/discover/pets/kraken",
+      "official_id": "ocean_2024_kraken"
+    },
+    {
+      "id": "ladybug",
+      "source_url": "https://www.playadopt.me/discover/pets/ladybug",
+      "official_id": "ladybug"
+    },
+    {
+      "id": "lamb",
+      "source_url": "https://www.playadopt.me/discover/pets/lamb",
+      "official_id": "lamb"
+    },
+    {
+      "id": "lammergeier",
+      "source_url": "https://www.playadopt.me/discover/pets/lammergeier",
+      "official_id": "danger_2023_lammergeier"
+    },
+    {
+      "id": "latte-kitsune",
+      "source_url": "https://www.playadopt.me/discover/pets/latte-kitsune",
+      "official_id": "sugarfest_2026_latte_kitsune"
+    },
+    {
+      "id": "lava-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/lava-dragon",
+      "official_id": "halloween_2022_lava_dragon"
+    },
+    {
+      "id": "lava-wolf",
+      "source_url": "https://www.playadopt.me/discover/pets/lava-wolf",
+      "official_id": "halloween_2022_lava_wolf"
+    },
+    {
+      "id": "lavender-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/lavender-dragon",
+      "official_id": "lavender_dragon"
+    },
+    {
+      "id": "leopard-cat",
+      "source_url": "https://www.playadopt.me/discover/pets/leopard-cat",
+      "official_id": "japan_2022_leopard_cat"
+    },
+    {
+      "id": "leopard-shark",
+      "source_url": "https://www.playadopt.me/discover/pets/leopard-shark",
+      "official_id": "summerfest_2023_leopard_shark"
+    },
+    {
+      "id": "leviathan",
+      "source_url": "https://www.playadopt.me/discover/pets/leviathan",
+      "official_id": "summerfest_2023_leviathan"
+    },
+    {
+      "id": "liger",
+      "source_url": "https://www.playadopt.me/discover/pets/liger",
+      "official_id": "danger_2023_liger"
+    },
+    {
+      "id": "lion",
+      "source_url": "https://www.playadopt.me/discover/pets/lion",
+      "official_id": "lion"
+    },
+    {
+      "id": "lion-cub",
+      "source_url": "https://www.playadopt.me/discover/pets/lion-cub",
+      "official_id": "ugc_refresh_2023_lion_cub"
+    },
+    {
+      "id": "lionfish",
+      "source_url": "https://www.playadopt.me/discover/pets/lionfish",
+      "official_id": "ocean_2024_lionfish"
+    },
+    {
+      "id": "little-lamb",
+      "source_url": "https://www.playadopt.me/discover/pets/little-lamb",
+      "official_id": "fairytale_egg_2026_little_lamb"
+    },
+    {
+      "id": "llama",
+      "source_url": "https://www.playadopt.me/discover/pets/llama",
+      "official_id": "llama"
+    },
+    {
+      "id": "lobster",
+      "source_url": "https://www.playadopt.me/discover/pets/lobster",
+      "official_id": "summerfest_2023_lobster"
+    },
+    {
+      "id": "longhorn-cow",
+      "source_url": "https://www.playadopt.me/discover/pets/longhorn-cow",
+      "official_id": "farm_2023_longhorn_cow"
+    },
+    {
+      "id": "love-bird",
+      "source_url": "https://www.playadopt.me/discover/pets/love-bird",
+      "official_id": "valentines_2025_love_bird"
+    },
+    {
+      "id": "lunar-gold-tiger",
+      "source_url": "https://www.playadopt.me/discover/pets/lunar-gold-tiger",
+      "official_id": "lny_2022_tiger_gold"
+    },
+    {
+      "id": "lunar-moon-bear",
+      "source_url": "https://www.playadopt.me/discover/pets/lunar-moon-bear",
+      "official_id": "lny_2023_moon_moon_bear"
+    },
+    {
+      "id": "lunar-ox",
+      "source_url": "https://www.playadopt.me/discover/pets/lunar-ox",
+      "official_id": "lunar_ox"
+    },
+    {
+      "id": "lunar-tiger",
+      "source_url": "https://www.playadopt.me/discover/pets/lunar-tiger",
+      "official_id": "lny_2022_tiger"
+    },
+    {
+      "id": "lunar-white-tiger",
+      "source_url": "https://www.playadopt.me/discover/pets/lunar-white-tiger",
+      "official_id": "lny_2022_tiger_white"
+    },
+    {
+      "id": "lynx",
+      "source_url": "https://www.playadopt.me/discover/pets/lynx",
+      "official_id": "lynx"
+    },
+    {
+      "id": "magma-moose",
+      "source_url": "https://www.playadopt.me/discover/pets/magma-moose",
+      "official_id": "lures_2023_magma_moose"
+    },
+    {
+      "id": "magma-snail",
+      "source_url": "https://www.playadopt.me/discover/pets/magma-snail",
+      "official_id": "lures_2023_magma_snail"
+    },
+    {
+      "id": "magpie",
+      "source_url": "https://www.playadopt.me/discover/pets/magpie",
+      "official_id": "inspector_shepherd_2026_magpie"
+    },
+    {
+      "id": "mahi-mahi",
+      "source_url": "https://www.playadopt.me/discover/pets/mahi-mahi",
+      "official_id": "beach_2024_mahi_mahi"
+    },
+    {
+      "id": "maine-coon",
+      "source_url": "https://www.playadopt.me/discover/pets/maine-coon",
+      "official_id": "winter_2025_maine_coon"
+    },
+    {
+      "id": "majestic-pony",
+      "source_url": "https://www.playadopt.me/discover/pets/majestic-pony",
+      "official_id": "summerfest_2024_majestic_pony"
+    },
+    {
+      "id": "malayan-tapir",
+      "source_url": "https://www.playadopt.me/discover/pets/malayan-tapir",
+      "official_id": "seasia_2023_malaysian_tapir"
+    },
+    {
+      "id": "maleo-bird",
+      "source_url": "https://www.playadopt.me/discover/pets/maleo-bird",
+      "official_id": "seasia_2023_maleo_bird"
+    },
+    {
+      "id": "maneki-neko",
+      "source_url": "https://www.playadopt.me/discover/pets/maneki-neko",
+      "official_id": "japan_2022_maneki_neko"
+    },
+    {
+      "id": "manta-ray",
+      "source_url": "https://www.playadopt.me/discover/pets/manta-ray",
+      "official_id": "summerfest_2025_manta_ray"
+    },
+    {
+      "id": "many-mackerel",
+      "source_url": "https://www.playadopt.me/discover/pets/many-mackerel",
+      "official_id": "summerfest_2023_mackerel_shoal"
+    },
+    {
+      "id": "marabou-stork",
+      "source_url": "https://www.playadopt.me/discover/pets/marabou-stork",
+      "official_id": "halloween_2024_marabou_stork"
+    },
+    {
+      "id": "matcha-cat",
+      "source_url": "https://www.playadopt.me/discover/pets/matcha-cat",
+      "official_id": "cat_cafe_2026_matcha_cat"
+    },
+    {
+      "id": "mecha-meow",
+      "source_url": "https://www.playadopt.me/discover/pets/mecha-meow",
+      "official_id": "bfriday_2023_mecha_meow"
+    },
+    {
+      "id": "mecha-r4bbit",
+      "source_url": "https://www.playadopt.me/discover/pets/mecha-r4bbit",
+      "official_id": "spring_2025_mechapips"
+    },
+    {
+      "id": "mechapup",
+      "source_url": "https://www.playadopt.me/discover/pets/mechapup",
+      "official_id": "april_fools_2022_mechapup"
+    },
+    {
+      "id": "meerkat",
+      "source_url": "https://www.playadopt.me/discover/pets/meerkat",
+      "official_id": "meerkat"
+    },
+    {
+      "id": "merhorse",
+      "source_url": "https://www.playadopt.me/discover/pets/merhorse",
+      "official_id": "merhorse"
+    },
+    {
+      "id": "mermicorn",
+      "source_url": "https://www.playadopt.me/discover/pets/mermicorn",
+      "official_id": "summerfest_2025_mermicorn"
+    },
+    {
+      "id": "merry-mistletroll",
+      "source_url": "https://www.playadopt.me/discover/pets/merry-mistletroll",
+      "official_id": "winter_2024_merry_mistletroll"
+    },
+    {
+      "id": "metal-ox",
+      "source_url": "https://www.playadopt.me/discover/pets/metal-ox",
+      "official_id": "metal_ox"
+    },
+    {
+      "id": "mexican-wolf",
+      "source_url": "https://www.playadopt.me/discover/pets/mexican-wolf",
+      "official_id": "endangered_2026_mexican_wolf"
+    },
+    {
+      "id": "midnight-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/midnight-dragon",
+      "official_id": "lunar_2024_midnight_dragon"
+    },
+    {
+      "id": "milk-choccybunny",
+      "source_url": "https://www.playadopt.me/discover/pets/milk-choccybunny",
+      "official_id": "sugarfest_2026_milk_choccybunny"
+    },
+    {
+      "id": "mini-pig",
+      "source_url": "https://www.playadopt.me/discover/pets/mini-pig",
+      "official_id": "summerfest_2024_minipig"
+    },
+    {
+      "id": "mini-schnauzer",
+      "source_url": "https://www.playadopt.me/discover/pets/mini-schnauzer",
+      "official_id": "house_pets_2025_mini_schnauzer"
+    },
+    {
+      "id": "mirai-moth",
+      "source_url": "https://www.playadopt.me/discover/pets/mirai-moth",
+      "official_id": "spring_2025_mirai_moth"
+    },
+    {
+      "id": "mistletroll",
+      "source_url": "https://www.playadopt.me/discover/pets/mistletroll",
+      "official_id": "winter_2024_mistletroll"
+    },
+    {
+      "id": "mochi-meow",
+      "source_url": "https://www.playadopt.me/discover/pets/mochi-meow",
+      "official_id": "sugarfest_2026_mochi_meow"
+    },
+    {
+      "id": "mole",
+      "source_url": "https://www.playadopt.me/discover/pets/mole",
+      "official_id": "garden_2024_mole"
+    },
+    {
+      "id": "momma-moose",
+      "source_url": "https://www.playadopt.me/discover/pets/momma-moose",
+      "official_id": "camping_2025_mama_moose"
+    },
+    {
+      "id": "mongoose",
+      "source_url": "https://www.playadopt.me/discover/pets/mongoose",
+      "official_id": "urban_2023_mongoose"
+    },
+    {
+      "id": "monkey",
+      "source_url": "https://www.playadopt.me/discover/pets/monkey",
+      "official_id": "monkey"
+    },
+    {
+      "id": "monkey-king",
+      "source_url": "https://www.playadopt.me/discover/pets/monkey-king",
+      "official_id": "monkey_king"
+    },
+    {
+      "id": "moon-rabbit",
+      "source_url": "https://www.playadopt.me/discover/pets/moon-rabbit",
+      "official_id": "lny_2023_moon_rabbit"
+    },
+    {
+      "id": "moonbeam-butterfly",
+      "source_url": "https://www.playadopt.me/discover/pets/moonbeam-butterfly",
+      "official_id": "butterfly_2025_moonbeam_butterfly"
+    },
+    {
+      "id": "moonbeam-peacock",
+      "source_url": "https://www.playadopt.me/discover/pets/moonbeam-peacock",
+      "official_id": "salon_revamp_2026_moonbeam_peacock"
+    },
+    {
+      "id": "moonlight-moth",
+      "source_url": "https://www.playadopt.me/discover/pets/moonlight-moth",
+      "official_id": "celestial_2024_moonlight_moth"
+    },
+    {
+      "id": "moonpine",
+      "source_url": "https://www.playadopt.me/discover/pets/moonpine",
+      "official_id": "moon_2025_moonpine"
+    },
+    {
+      "id": "moose-calf",
+      "source_url": "https://www.playadopt.me/discover/pets/moose-calf",
+      "official_id": "camping_2025_moose_calf"
+    },
+    {
+      "id": "mosquito",
+      "source_url": "https://www.playadopt.me/discover/pets/mosquito",
+      "official_id": "danger_2023_mosquito"
+    },
+    {
+      "id": "mouse",
+      "source_url": "https://www.playadopt.me/discover/pets/mouse",
+      "official_id": "basic_egg_2022_mouse"
+    },
+    {
+      "id": "mr-whiskerpips",
+      "source_url": "https://www.playadopt.me/discover/pets/mr-whiskerpips",
+      "official_id": "winter_2024_mr_whiskerpips"
+    },
+    {
+      "id": "mrs-whiskerpips",
+      "source_url": "https://www.playadopt.me/discover/pets/mrs-whiskerpips",
+      "official_id": "winter_2025_mrs_whiskerpips"
+    },
+    {
+      "id": "ms-muffet",
+      "source_url": "https://www.playadopt.me/discover/pets/ms-muffet",
+      "official_id": "fairytale_egg_2026_miss_muffet"
+    },
+    {
+      "id": "mule",
+      "source_url": "https://www.playadopt.me/discover/pets/mule",
+      "official_id": "halloween_2022_mule"
+    },
+    {
+      "id": "mummy-spider",
+      "source_url": "https://www.playadopt.me/discover/pets/mummy-spider",
+      "official_id": "halloween_2026_tomb_spider"
+    },
+    {
+      "id": "munchkin-cat",
+      "source_url": "https://www.playadopt.me/discover/pets/munchkin-cat",
+      "official_id": "house_pets_2025_munchkin_cat"
+    },
+    {
+      "id": "mushroom-friend",
+      "source_url": "https://www.playadopt.me/discover/pets/mushroom-friend",
+      "official_id": "garden_2024_mushroom_friend"
+    },
+    {
+      "id": "musk-ox",
+      "source_url": "https://www.playadopt.me/discover/pets/musk-ox",
+      "official_id": "musk_ox"
+    },
+    {
+      "id": "muskrat",
+      "source_url": "https://www.playadopt.me/discover/pets/muskrat",
+      "official_id": "camping_2025_muskrat"
+    },
+    {
+      "id": "naga-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/naga-dragon",
+      "official_id": "seasia_2023_naga_dragon"
+    },
+    {
+      "id": "narwhal",
+      "source_url": "https://www.playadopt.me/discover/pets/narwhal",
+      "official_id": "narwhal"
+    },
+    {
+      "id": "naughty-mistletroll",
+      "source_url": "https://www.playadopt.me/discover/pets/naughty-mistletroll",
+      "official_id": "winter_2024_naughty_mistletroll"
+    },
+    {
+      "id": "nautilus",
+      "source_url": "https://www.playadopt.me/discover/pets/nautilus",
+      "official_id": "beach_2024_nautilus"
+    },
+    {
+      "id": "nebula-snake",
+      "source_url": "https://www.playadopt.me/discover/pets/nebula-snake",
+      "official_id": "lunar_2025_nebula_snake"
+    },
+    {
+      "id": "nessie",
+      "source_url": "https://www.playadopt.me/discover/pets/nessie",
+      "official_id": "scottish_2023_nessie"
+    },
+    {
+      "id": "nightmare-owl",
+      "source_url": "https://www.playadopt.me/discover/pets/nightmare-owl",
+      "official_id": "halloween_2023_nightmare_owl"
+    },
+    {
+      "id": "ninja-monkey",
+      "source_url": "https://www.playadopt.me/discover/pets/ninja-monkey",
+      "official_id": "ninja_monkey"
+    },
+    {
+      "id": "nurse-shark",
+      "source_url": "https://www.playadopt.me/discover/pets/nurse-shark",
+      "official_id": "journey_2026_nurse_shark"
+    },
+    {
+      "id": "nutcracker-squirrel",
+      "source_url": "https://www.playadopt.me/discover/pets/nutcracker-squirrel",
+      "official_id": "winter_2023_nutcracker_squirrel"
+    },
+    {
+      "id": "oakee",
+      "source_url": "https://www.playadopt.me/discover/pets/oakee",
+      "official_id": "summer_2026_acorn_friend"
+    },
+    {
+      "id": "oakee-knight",
+      "source_url": "https://www.playadopt.me/discover/pets/oakee-knight",
+      "official_id": "summer_2026_acorn_knight"
+    },
+    {
+      "id": "oakee-wizard",
+      "source_url": "https://www.playadopt.me/discover/pets/oakee-wizard",
+      "official_id": "summer_2026_acorn_wizard"
+    },
+    {
+      "id": "ocelot",
+      "source_url": "https://www.playadopt.me/discover/pets/ocelot",
+      "official_id": "rain_2023_ocelot"
+    },
+    {
+      "id": "octopus",
+      "source_url": "https://www.playadopt.me/discover/pets/octopus",
+      "official_id": "octopus"
+    },
+    {
+      "id": "officer-gibbon",
+      "source_url": "https://www.playadopt.me/discover/pets/officer-gibbon",
+      "official_id": "gibbon_2025_officer_gibbon"
+    },
+    {
+      "id": "old-king-coal",
+      "source_url": "https://www.playadopt.me/discover/pets/old-king-coal",
+      "official_id": "winter_2025_old_king_coal"
+    },
+    {
+      "id": "onza",
+      "source_url": "https://www.playadopt.me/discover/pets/onza",
+      "official_id": "aztec_egg_2025_golden_lynx"
+    },
+    {
+      "id": "orange-betta-fish",
+      "source_url": "https://www.playadopt.me/discover/pets/orange-betta-fish",
+      "official_id": "summerfest_2024_orange_betta_fish"
+    },
+    {
+      "id": "orange-butterfly",
+      "source_url": "https://www.playadopt.me/discover/pets/orange-butterfly",
+      "official_id": "sanctuary_2022_orange_premium_butterfly"
+    },
+    {
+      "id": "orangutan",
+      "source_url": "https://www.playadopt.me/discover/pets/orangutan",
+      "official_id": "basic_egg_2022_orangutan"
+    },
+    {
+      "id": "orca",
+      "source_url": "https://www.playadopt.me/discover/pets/orca",
+      "official_id": "star_rewards_2022_orca"
+    },
+    {
+      "id": "orchid-butterfly",
+      "source_url": "https://www.playadopt.me/discover/pets/orchid-butterfly",
+      "official_id": "butterfly_2025_orchid_butterfly"
+    },
+    {
+      "id": "ornate-horned-frog",
+      "source_url": "https://www.playadopt.me/discover/pets/ornate-horned-frog",
+      "official_id": "fire_dimension_2024_ornate_horned_frog"
+    },
+    {
+      "id": "oryx",
+      "source_url": "https://www.playadopt.me/discover/pets/oryx",
+      "official_id": "desert_2024_oryx"
+    },
+    {
+      "id": "ostrich",
+      "source_url": "https://www.playadopt.me/discover/pets/ostrich",
+      "official_id": "ugc_refresh_2023_ostrich"
+    },
+    {
+      "id": "otter",
+      "source_url": "https://www.playadopt.me/discover/pets/otter",
+      "official_id": "otter"
+    },
+    {
+      "id": "owl",
+      "source_url": "https://www.playadopt.me/discover/pets/owl",
+      "official_id": "owl"
+    },
+    {
+      "id": "owlbear",
+      "source_url": "https://www.playadopt.me/discover/pets/owlbear",
+      "official_id": "danger_2023_owlbear"
+    },
+    {
+      "id": "ox",
+      "source_url": "https://www.playadopt.me/discover/pets/ox",
+      "official_id": "ox"
+    },
+    {
+      "id": "pain-au-chat",
+      "source_url": "https://www.playadopt.me/discover/pets/pain-au-chat",
+      "official_id": "cat_cafe_2026_pain_au_chat"
+    },
+    {
+      "id": "panda",
+      "source_url": "https://www.playadopt.me/discover/pets/panda",
+      "official_id": "panda"
+    },
+    {
+      "id": "pangolin",
+      "source_url": "https://www.playadopt.me/discover/pets/pangolin",
+      "official_id": "endangered_2026_pangolin"
+    },
+    {
+      "id": "papa-moose",
+      "source_url": "https://www.playadopt.me/discover/pets/papa-moose",
+      "official_id": "camping_2025_papa_moose"
+    },
+    {
+      "id": "parakeet",
+      "source_url": "https://www.playadopt.me/discover/pets/parakeet",
+      "official_id": "basic_egg_2022_parakeet"
+    },
+    {
+      "id": "parrot",
+      "source_url": "https://www.playadopt.me/discover/pets/parrot",
+      "official_id": "parrot"
+    },
+    {
+      "id": "partridge",
+      "source_url": "https://www.playadopt.me/discover/pets/partridge",
+      "official_id": "winter_2024_partridge"
+    },
+    {
+      "id": "patchy-bear",
+      "source_url": "https://www.playadopt.me/discover/pets/patchy-bear",
+      "official_id": "halloween_2025_patchy_the_bear"
+    },
+    {
+      "id": "peach-owl",
+      "source_url": "https://www.playadopt.me/discover/pets/peach-owl",
+      "official_id": "food_pets_2026_peach_owl"
+    },
+    {
+      "id": "peachick",
+      "source_url": "https://www.playadopt.me/discover/pets/peachick",
+      "official_id": "salon_revamp_2026_peachick"
+    },
+    {
+      "id": "peacock",
+      "source_url": "https://www.playadopt.me/discover/pets/peacock",
+      "official_id": "peacock"
+    },
+    {
+      "id": "peahen",
+      "source_url": "https://www.playadopt.me/discover/pets/peahen",
+      "official_id": "salon_revamp_2026_peahen"
+    },
+    {
+      "id": "pelican",
+      "source_url": "https://www.playadopt.me/discover/pets/pelican",
+      "official_id": "random_pets_sept_2023_pelican"
+    },
+    {
+      "id": "penguin",
+      "source_url": "https://www.playadopt.me/discover/pets/penguin",
+      "official_id": "penguin"
+    },
+    {
+      "id": "peppermint-penguin",
+      "source_url": "https://www.playadopt.me/discover/pets/peppermint-penguin",
+      "official_id": "winter_2023_peppermint_penguin"
+    },
+    {
+      "id": "peregrine-falcon",
+      "source_url": "https://www.playadopt.me/discover/pets/peregrine-falcon",
+      "official_id": "sunshine_2024_peregrine_falcon"
+    },
+    {
+      "id": "persian-cat",
+      "source_url": "https://www.playadopt.me/discover/pets/persian-cat",
+      "official_id": "pib_2022_persian_cat"
+    },
+    {
+      "id": "phantom-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/phantom-dragon",
+      "official_id": "halloween_2025_phantom_dragon"
+    },
+    {
+      "id": "phoenix",
+      "source_url": "https://www.playadopt.me/discover/pets/phoenix",
+      "official_id": "phoenix"
+    },
+    {
+      "id": "pig",
+      "source_url": "https://www.playadopt.me/discover/pets/pig",
+      "official_id": "pig"
+    },
+    {
+      "id": "pilot-gull",
+      "source_url": "https://www.playadopt.me/discover/pets/pilot-gull",
+      "official_id": "journey_2026_pilot_gull"
+    },
+    {
+      "id": "pine-marten",
+      "source_url": "https://www.playadopt.me/discover/pets/pine-marten",
+      "official_id": "woodland_2022_pine_marten"
+    },
+    {
+      "id": "pineapple-owl",
+      "source_url": "https://www.playadopt.me/discover/pets/pineapple-owl",
+      "official_id": "food_pets_2026_pineapple_owl"
+    },
+    {
+      "id": "pink-betta-fish",
+      "source_url": "https://www.playadopt.me/discover/pets/pink-betta-fish",
+      "official_id": "summerfest_2024_pink_betta_fish"
+    },
+    {
+      "id": "pink-cat",
+      "source_url": "https://www.playadopt.me/discover/pets/pink-cat",
+      "official_id": "pink_cat"
+    },
+    {
+      "id": "pink-dog",
+      "source_url": "https://www.playadopt.me/discover/pets/pink-dog",
+      "official_id": "roblox_anniversary_2026_pink_dog"
+    },
+    {
+      "id": "pinkypillar",
+      "source_url": "https://www.playadopt.me/discover/pets/pinkypillar",
+      "official_id": "fairytale_egg_2026_thumbellina_caterpillar"
+    },
+    {
+      "id": "piranha",
+      "source_url": "https://www.playadopt.me/discover/pets/piranha",
+      "official_id": "danger_2023_piranha"
+    },
+    {
+      "id": "pirate-ghost-capuchin-monkey",
+      "source_url": "https://www.playadopt.me/discover/pets/pirate-ghost-capuchin-monkey",
+      "official_id": "capuchin_2024_pirate_ghost_capuchin_monkey"
+    },
+    {
+      "id": "pirate-hermit-crab",
+      "source_url": "https://www.playadopt.me/discover/pets/pirate-hermit-crab",
+      "official_id": "summerfest_2023_pirate_hermit_crab"
+    },
+    {
+      "id": "pistachio",
+      "source_url": "https://www.playadopt.me/discover/pets/pistachio",
+      "official_id": "dolls_2023_pinocchio"
+    },
+    {
+      "id": "platypus",
+      "source_url": "https://www.playadopt.me/discover/pets/platypus",
+      "official_id": "platypus"
+    },
+    {
+      "id": "poison-dart-frog",
+      "source_url": "https://www.playadopt.me/discover/pets/poison-dart-frog",
+      "official_id": "danger_2023_poison_dart_frog"
+    },
+    {
+      "id": "polar-bear",
+      "source_url": "https://www.playadopt.me/discover/pets/polar-bear",
+      "official_id": "polar_bear"
+    },
+    {
+      "id": "pomeranian",
+      "source_url": "https://www.playadopt.me/discover/pets/pomeranian",
+      "official_id": "star_rewards_2022_pomeranian"
+    },
+    {
+      "id": "poodle",
+      "source_url": "https://www.playadopt.me/discover/pets/poodle",
+      "official_id": "basic_egg_2022_poodle"
+    },
+    {
+      "id": "possum",
+      "source_url": "https://www.playadopt.me/discover/pets/possum",
+      "official_id": "camping_2023_possum"
+    },
+    {
+      "id": "praying-mantis",
+      "source_url": "https://www.playadopt.me/discover/pets/praying-mantis",
+      "official_id": "garden_2024_praying_mantis"
+    },
+    {
+      "id": "preppy-capuchin-monkey",
+      "source_url": "https://www.playadopt.me/discover/pets/preppy-capuchin-monkey",
+      "official_id": "capuchin_2024_preppy_capuchin_monkey"
+    },
+    {
+      "id": "pretty-pony",
+      "source_url": "https://www.playadopt.me/discover/pets/pretty-pony",
+      "official_id": "summerfest_2024_pretty_pony"
+    },
+    {
+      "id": "priceless-shrimp",
+      "source_url": "https://www.playadopt.me/discover/pets/priceless-shrimp",
+      "official_id": "summer_2025_priceless_shrimp"
+    },
+    {
+      "id": "primal-kaijunior",
+      "source_url": "https://www.playadopt.me/discover/pets/primal-kaijunior",
+      "official_id": "spring_2025_spiked_kaijunior"
+    },
+    {
+      "id": "princess-capuchin-monkey",
+      "source_url": "https://www.playadopt.me/discover/pets/princess-capuchin-monkey",
+      "official_id": "capuchin_2024_princess_capuchin_monkey"
+    },
+    {
+      "id": "princess-mare",
+      "source_url": "https://www.playadopt.me/discover/pets/princess-mare",
+      "official_id": "fairytale_egg_2026_princess_mare"
+    },
+    {
+      "id": "prism-snake",
+      "source_url": "https://www.playadopt.me/discover/pets/prism-snake",
+      "official_id": "lunar_2025_prism_snake"
+    },
+    {
+      "id": "prismatic-butterfly",
+      "source_url": "https://www.playadopt.me/discover/pets/prismatic-butterfly",
+      "official_id": "butterfly_2025_prismatic_butterfly"
+    },
+    {
+      "id": "pterodactyl",
+      "source_url": "https://www.playadopt.me/discover/pets/pterodactyl",
+      "official_id": "pterodactyl"
+    },
+    {
+      "id": "pudding-cat",
+      "source_url": "https://www.playadopt.me/discover/pets/pudding-cat",
+      "official_id": "april_fools_2023_pudding_cat"
+    },
+    {
+      "id": "puffer-fish",
+      "source_url": "https://www.playadopt.me/discover/pets/puffer-fish",
+      "official_id": "danger_2023_puffer_fish"
+    },
+    {
+      "id": "puffin",
+      "source_url": "https://www.playadopt.me/discover/pets/puffin",
+      "official_id": "winter_2021_puffin"
+    },
+    {
+      "id": "puma",
+      "source_url": "https://www.playadopt.me/discover/pets/puma",
+      "official_id": "puma"
+    },
+    {
+      "id": "pumpkin-friend",
+      "source_url": "https://www.playadopt.me/discover/pets/pumpkin-friend",
+      "official_id": "halloween_2024_pumpkin_friend"
+    },
+    {
+      "id": "punk-pony",
+      "source_url": "https://www.playadopt.me/discover/pets/punk-pony",
+      "official_id": "summerfest_2024_punk_pony"
+    },
+    {
+      "id": "pupcake",
+      "source_url": "https://www.playadopt.me/discover/pets/pupcake",
+      "official_id": "sugarfest_2026_pupcake"
+    },
+    {
+      "id": "puptune",
+      "source_url": "https://www.playadopt.me/discover/pets/puptune",
+      "official_id": "moon_2025_puptune"
+    },
+    {
+      "id": "purple-butterfly",
+      "source_url": "https://www.playadopt.me/discover/pets/purple-butterfly",
+      "official_id": "sanctuary_2022_purple_bucks_butterfly"
+    },
+    {
+      "id": "purrowl",
+      "source_url": "https://www.playadopt.me/discover/pets/purrowl",
+      "official_id": "pet_progression_2026_purrowl"
+    },
+    {
+      "id": "queen-bee",
+      "source_url": "https://www.playadopt.me/discover/pets/queen-bee",
+      "official_id": "queen_bee"
+    },
+    {
+      "id": "quetzalcoatl",
+      "source_url": "https://www.playadopt.me/discover/pets/quetzalcoatl",
+      "official_id": "aztec_egg_2025_winged_snake"
+    },
+    {
+      "id": "quokka",
+      "source_url": "https://www.playadopt.me/discover/pets/quokka",
+      "official_id": "aussie_2024_quokka"
+    },
+    {
+      "id": "rabbit",
+      "source_url": "https://www.playadopt.me/discover/pets/rabbit",
+      "official_id": "rabbit"
+    },
+    {
+      "id": "raccoon",
+      "source_url": "https://www.playadopt.me/discover/pets/raccoon",
+      "official_id": "chiprac_2023_raccoon"
+    },
+    {
+      "id": "rainbow-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/rainbow-dragon",
+      "official_id": "lunar_2024_rainbow_dragon"
+    },
+    {
+      "id": "rainbow-trout",
+      "source_url": "https://www.playadopt.me/discover/pets/rainbow-trout",
+      "official_id": "summer_2026_rainbow_trout"
+    },
+    {
+      "id": "ram",
+      "source_url": "https://www.playadopt.me/discover/pets/ram",
+      "official_id": "winter_2022_ram"
+    },
+    {
+      "id": "ranger-beaver",
+      "source_url": "https://www.playadopt.me/discover/pets/ranger-beaver",
+      "official_id": "journey_2026_ranger_beaver"
+    },
+    {
+      "id": "rat",
+      "source_url": "https://www.playadopt.me/discover/pets/rat",
+      "official_id": "rat"
+    },
+    {
+      "id": "ratatoskr",
+      "source_url": "https://www.playadopt.me/discover/pets/ratatoskr",
+      "official_id": "winter_2024_ratatoskr"
+    },
+    {
+      "id": "rattlesnake",
+      "source_url": "https://www.playadopt.me/discover/pets/rattlesnake",
+      "official_id": "desert_2024_rattlesnake"
+    },
+    {
+      "id": "red-cardinal",
+      "source_url": "https://www.playadopt.me/discover/pets/red-cardinal",
+      "official_id": "woodland_2022_red_cardinal"
+    },
+    {
+      "id": "red-crowned-crane",
+      "source_url": "https://www.playadopt.me/discover/pets/red-crowned-crane",
+      "official_id": "japan_2022_red_crowned_crane"
+    },
+    {
+      "id": "red-dutch-guinea-pig",
+      "source_url": "https://www.playadopt.me/discover/pets/red-dutch-guinea-pig",
+      "official_id": "subscription_2026_red_dutch_guinea_pig"
+    },
+    {
+      "id": "red-fox",
+      "source_url": "https://www.playadopt.me/discover/pets/red-fox",
+      "official_id": "woodland_2022_red_fox"
+    },
+    {
+      "id": "red-panda",
+      "source_url": "https://www.playadopt.me/discover/pets/red-panda",
+      "official_id": "red_panda"
+    },
+    {
+      "id": "red-panda-ducky",
+      "source_url": "https://www.playadopt.me/discover/pets/red-panda-ducky",
+      "official_id": "journey_2026_red_panda_ducky"
+    },
+    {
+      "id": "red-sand-dollar",
+      "source_url": "https://www.playadopt.me/discover/pets/red-sand-dollar",
+      "official_id": "pool_2023_red_sand_dollar"
+    },
+    {
+      "id": "red-squirrel",
+      "source_url": "https://www.playadopt.me/discover/pets/red-squirrel",
+      "official_id": "red_squirrel"
+    },
+    {
+      "id": "reindeer",
+      "source_url": "https://www.playadopt.me/discover/pets/reindeer",
+      "official_id": "reindeer"
+    },
+    {
+      "id": "rhino",
+      "source_url": "https://www.playadopt.me/discover/pets/rhino",
+      "official_id": "rhino"
+    },
+    {
+      "id": "rhino-beetle",
+      "source_url": "https://www.playadopt.me/discover/pets/rhino-beetle",
+      "official_id": "japan_2022_rhino_beetle"
+    },
+    {
+      "id": "ribbon-seal",
+      "source_url": "https://www.playadopt.me/discover/pets/ribbon-seal",
+      "official_id": "snow_2022_ribbon_seal"
+    },
+    {
+      "id": "rice-cake-rabbit",
+      "source_url": "https://www.playadopt.me/discover/pets/rice-cake-rabbit",
+      "official_id": "lunar_2024_rice_cake_rabbit"
+    },
+    {
+      "id": "ring-tailed-lemur",
+      "source_url": "https://www.playadopt.me/discover/pets/ring-tailed-lemur",
+      "official_id": "jungle_2023_ring_tailed_lemur"
+    },
+    {
+      "id": "ringmaster-gibbon",
+      "source_url": "https://www.playadopt.me/discover/pets/ringmaster-gibbon",
+      "official_id": "gibbon_2025_ringmaster_gibbon"
+    },
+    {
+      "id": "river",
+      "source_url": "https://www.playadopt.me/discover/pets/river",
+      "official_id": "dolls_2023_river"
+    },
+    {
+      "id": "river-otter",
+      "source_url": "https://www.playadopt.me/discover/pets/river-otter",
+      "official_id": "summer_2026_river_otter"
+    },
+    {
+      "id": "roadrunner",
+      "source_url": "https://www.playadopt.me/discover/pets/roadrunner",
+      "official_id": "desert_2024_roadrunner"
+    },
+    {
+      "id": "robin",
+      "source_url": "https://www.playadopt.me/discover/pets/robin",
+      "official_id": "robin"
+    },
+    {
+      "id": "robo-dog",
+      "source_url": "https://www.playadopt.me/discover/pets/robo-dog",
+      "official_id": "robo_dog"
+    },
+    {
+      "id": "robot",
+      "source_url": "https://www.playadopt.me/discover/pets/robot",
+      "official_id": "basic_egg_2022_robot"
+    },
+    {
+      "id": "rock",
+      "source_url": "https://www.playadopt.me/discover/pets/rock",
+      "official_id": "april_fools_2022_rock"
+    },
+    {
+      "id": "rock-pigeon",
+      "source_url": "https://www.playadopt.me/discover/pets/rock-pigeon",
+      "official_id": "urban_2023_pigeon"
+    },
+    {
+      "id": "rodeo-bull",
+      "source_url": "https://www.playadopt.me/discover/pets/rodeo-bull",
+      "official_id": "summerfest_2024_bull"
+    },
+    {
+      "id": "rooster",
+      "source_url": "https://www.playadopt.me/discover/pets/rooster",
+      "official_id": "farm_2023_rooster"
+    },
+    {
+      "id": "rose-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/rose-dragon",
+      "official_id": "valentines_2026_rose_dragon"
+    },
+    {
+      "id": "rosy-maple-moth",
+      "source_url": "https://www.playadopt.me/discover/pets/rosy-maple-moth",
+      "official_id": "garden_2024_rosy_maple_moth"
+    },
+    {
+      "id": "royal-capuchin-monkey",
+      "source_url": "https://www.playadopt.me/discover/pets/royal-capuchin-monkey",
+      "official_id": "capuchin_2024_royal_capuchin_monkey"
+    },
+    {
+      "id": "royal-corgi",
+      "source_url": "https://www.playadopt.me/discover/pets/royal-corgi",
+      "official_id": "royal_palace_2022_corgi"
+    },
+    {
+      "id": "royal-mistletroll",
+      "source_url": "https://www.playadopt.me/discover/pets/royal-mistletroll",
+      "official_id": "winter_2024_royal_mistletroll"
+    },
+    {
+      "id": "royal-palace-spaniel",
+      "source_url": "https://www.playadopt.me/discover/pets/royal-palace-spaniel",
+      "official_id": "royal_palace_2022_spaniel"
+    },
+    {
+      "id": "rubber-ducky",
+      "source_url": "https://www.playadopt.me/discover/pets/rubber-ducky",
+      "official_id": "soggy_spring_2026_rubber_ducky"
+    },
+    {
+      "id": "ruddy-duck",
+      "source_url": "https://www.playadopt.me/discover/pets/ruddy-duck",
+      "official_id": "summer_2026_ruddy_duck"
+    },
+    {
+      "id": "smores-raccoon",
+      "source_url": "https://www.playadopt.me/discover/pets/smores-raccoon",
+      "official_id": "summer_2026_smores_raccoon"
+    },
+    {
+      "id": "sabertooth",
+      "source_url": "https://www.playadopt.me/discover/pets/sabertooth",
+      "official_id": "sabertooth"
+    },
+    {
+      "id": "sado-mole",
+      "source_url": "https://www.playadopt.me/discover/pets/sado-mole",
+      "official_id": "japan_2022_sado_mole"
+    },
+    {
+      "id": "sakura-spirit",
+      "source_url": "https://www.playadopt.me/discover/pets/sakura-spirit",
+      "official_id": "spring_2025_sakura_spirit"
+    },
+    {
+      "id": "salamander",
+      "source_url": "https://www.playadopt.me/discover/pets/salamander",
+      "official_id": "woodland_2022_salamander"
+    },
+    {
+      "id": "samoyed",
+      "source_url": "https://www.playadopt.me/discover/pets/samoyed",
+      "official_id": "winter_2025_samoyed"
+    },
+    {
+      "id": "sandfish",
+      "source_url": "https://www.playadopt.me/discover/pets/sandfish",
+      "official_id": "desert_2024_sandfish"
+    },
+    {
+      "id": "sasquatch",
+      "source_url": "https://www.playadopt.me/discover/pets/sasquatch",
+      "official_id": "sasquatch"
+    },
+    {
+      "id": "scarebear",
+      "source_url": "https://www.playadopt.me/discover/pets/scarebear",
+      "official_id": "halloween_2024_scarebear"
+    },
+    {
+      "id": "scarecrow",
+      "source_url": "https://www.playadopt.me/discover/pets/scarecrow",
+      "official_id": "halloween_2023_scarecrow"
+    },
+    {
+      "id": "scarecrow-cat",
+      "source_url": "https://www.playadopt.me/discover/pets/scarecrow-cat",
+      "official_id": "halloween_2023_scarecrow_cat"
+    },
+    {
+      "id": "scarecrow-crow",
+      "source_url": "https://www.playadopt.me/discover/pets/scarecrow-crow",
+      "official_id": "halloween_2023_scarecrow_crow"
+    },
+    {
+      "id": "scarecrow-horse",
+      "source_url": "https://www.playadopt.me/discover/pets/scarecrow-horse",
+      "official_id": "halloween_2023_scarecrow_horse"
+    },
+    {
+      "id": "scarlet-butterfly",
+      "source_url": "https://www.playadopt.me/discover/pets/scarlet-butterfly",
+      "official_id": "sanctuary_2022_red_bucks_butterfly"
+    },
+    {
+      "id": "scorching-kaijunior",
+      "source_url": "https://www.playadopt.me/discover/pets/scorching-kaijunior",
+      "official_id": "spring_2025_scorching_kaijunior"
+    },
+    {
+      "id": "sea-angel",
+      "source_url": "https://www.playadopt.me/discover/pets/sea-angel",
+      "official_id": "ocean_2024_sea_angel"
+    },
+    {
+      "id": "sea-skeleton-panda",
+      "source_url": "https://www.playadopt.me/discover/pets/sea-skeleton-panda",
+      "official_id": "halloween_2024_sea_skeleton_panda"
+    },
+    {
+      "id": "sea-slug",
+      "source_url": "https://www.playadopt.me/discover/pets/sea-slug",
+      "official_id": "summerfest_2025_sea_slug"
+    },
+    {
+      "id": "sea-turtle",
+      "source_url": "https://www.playadopt.me/discover/pets/sea-turtle",
+      "official_id": "endangered_2026_sea_turtle"
+    },
+    {
+      "id": "seabed-creeper",
+      "source_url": "https://www.playadopt.me/discover/pets/seabed-creeper",
+      "official_id": "summerfest_2025_seabed_creeper"
+    },
+    {
+      "id": "seafoam-butterfly",
+      "source_url": "https://www.playadopt.me/discover/pets/seafoam-butterfly",
+      "official_id": "butterfly_2025_seafoam_butterfly"
+    },
+    {
+      "id": "seagull",
+      "source_url": "https://www.playadopt.me/discover/pets/seagull",
+      "official_id": "urban_2023_seagull"
+    },
+    {
+      "id": "seahorse",
+      "source_url": "https://www.playadopt.me/discover/pets/seahorse",
+      "official_id": "seahorse"
+    },
+    {
+      "id": "shadow-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/shadow-dragon",
+      "official_id": "shadow_dragon"
+    },
+    {
+      "id": "shadow-dragon-ducky",
+      "source_url": "https://www.playadopt.me/discover/pets/shadow-dragon-ducky",
+      "official_id": "soggy_spring_2026_shadow_dragon_ducky"
+    },
+    {
+      "id": "shark",
+      "source_url": "https://www.playadopt.me/discover/pets/shark",
+      "official_id": "shark"
+    },
+    {
+      "id": "shark-puppy",
+      "source_url": "https://www.playadopt.me/discover/pets/shark-puppy",
+      "official_id": "summerfest_2023_shark_doggo"
+    },
+    {
+      "id": "sheeeeep",
+      "source_url": "https://www.playadopt.me/discover/pets/sheeeeep",
+      "official_id": "meme_2023_sheeeeep"
+    },
+    {
+      "id": "sheepdog-ducky",
+      "source_url": "https://www.playadopt.me/discover/pets/sheepdog-ducky",
+      "official_id": "journey_2026_sheepdog_duck"
+    },
+    {
+      "id": "shetland-pony-dark-brown",
+      "source_url": "https://www.playadopt.me/discover/pets/shetland-pony-dark-brown",
+      "official_id": "winter_2022_shetland_pony_dark_brown"
+    },
+    {
+      "id": "shetland-pony-light-brown",
+      "source_url": "https://www.playadopt.me/discover/pets/shetland-pony-light-brown",
+      "official_id": "winter_2022_shetland_pony_light_brown"
+    },
+    {
+      "id": "shetland-pony-white",
+      "source_url": "https://www.playadopt.me/discover/pets/shetland-pony-white",
+      "official_id": "winter_2022_shetland_pony_white"
+    },
+    {
+      "id": "shiba-inu",
+      "source_url": "https://www.playadopt.me/discover/pets/shiba-inu",
+      "official_id": "shiba"
+    },
+    {
+      "id": "shih-tzu",
+      "source_url": "https://www.playadopt.me/discover/pets/shih-tzu",
+      "official_id": "dailies_2025_shih_tzu"
+    },
+    {
+      "id": "shiver-wolf",
+      "source_url": "https://www.playadopt.me/discover/pets/shiver-wolf",
+      "official_id": "ice_dimension_2025_shiver_wolf"
+    },
+    {
+      "id": "shoebill",
+      "source_url": "https://www.playadopt.me/discover/pets/shoebill",
+      "official_id": "halloween_2026_shoebill"
+    },
+    {
+      "id": "show-pony",
+      "source_url": "https://www.playadopt.me/discover/pets/show-pony",
+      "official_id": "summerfest_2024_show_pony"
+    },
+    {
+      "id": "shrew",
+      "source_url": "https://www.playadopt.me/discover/pets/shrew",
+      "official_id": "elf_shrew"
+    },
+    {
+      "id": "siamese-cat",
+      "source_url": "https://www.playadopt.me/discover/pets/siamese-cat",
+      "official_id": "house_pets_2025_siamese_cat"
+    },
+    {
+      "id": "silly-duck",
+      "source_url": "https://www.playadopt.me/discover/pets/silly-duck",
+      "official_id": "silly_duck"
+    },
+    {
+      "id": "silverback-gorilla",
+      "source_url": "https://www.playadopt.me/discover/pets/silverback-gorilla",
+      "official_id": "endangered_2026_silverback_gorilla"
+    },
+    {
+      "id": "singularity-beetle",
+      "source_url": "https://www.playadopt.me/discover/pets/singularity-beetle",
+      "official_id": "celestial_2024_singularity_beetle"
+    },
+    {
+      "id": "singularity-pisces",
+      "source_url": "https://www.playadopt.me/discover/pets/singularity-pisces",
+      "official_id": "celestial_2024_singularity_pisces"
+    },
+    {
+      "id": "skele-rex",
+      "source_url": "https://www.playadopt.me/discover/pets/skele-rex",
+      "official_id": "skele_rex"
+    },
+    {
+      "id": "skelebat",
+      "source_url": "https://www.playadopt.me/discover/pets/skelebat",
+      "official_id": "halloween_2025_skelebat"
+    },
+    {
+      "id": "skelicorn",
+      "source_url": "https://www.playadopt.me/discover/pets/skelicorn",
+      "official_id": "halloween_2026_skelicorn"
+    },
+    {
+      "id": "skunk",
+      "source_url": "https://www.playadopt.me/discover/pets/skunk",
+      "official_id": "garden_2024_skunk"
+    },
+    {
+      "id": "slime",
+      "source_url": "https://www.playadopt.me/discover/pets/slime",
+      "official_id": "halloween_2023_slime"
+    },
+    {
+      "id": "slimingo",
+      "source_url": "https://www.playadopt.me/discover/pets/slimingo",
+      "official_id": "halloween_2025_slimingo"
+    },
+    {
+      "id": "sloth",
+      "source_url": "https://www.playadopt.me/discover/pets/sloth",
+      "official_id": "sloth"
+    },
+    {
+      "id": "slug",
+      "source_url": "https://www.playadopt.me/discover/pets/slug",
+      "official_id": "halloween_2022_slug"
+    },
+    {
+      "id": "sneak-weasel",
+      "source_url": "https://www.playadopt.me/discover/pets/sneak-weasel",
+      "official_id": "inspector_shepherd_2026_sneak_weasel"
+    },
+    {
+      "id": "snorgle",
+      "source_url": "https://www.playadopt.me/discover/pets/snorgle",
+      "official_id": "moon_2025_snorgle"
+    },
+    {
+      "id": "snow-cat",
+      "source_url": "https://www.playadopt.me/discover/pets/snow-cat",
+      "official_id": "snow_cat"
+    },
+    {
+      "id": "snow-leopard",
+      "source_url": "https://www.playadopt.me/discover/pets/snow-leopard",
+      "official_id": "winter_2021_snow_leopard"
+    },
+    {
+      "id": "snow-monkey",
+      "source_url": "https://www.playadopt.me/discover/pets/snow-monkey",
+      "official_id": "winter_2023_snow_monkey"
+    },
+    {
+      "id": "snow-owl",
+      "source_url": "https://www.playadopt.me/discover/pets/snow-owl",
+      "official_id": "snow_owl"
+    },
+    {
+      "id": "snow-puma",
+      "source_url": "https://www.playadopt.me/discover/pets/snow-puma",
+      "official_id": "snow_puma"
+    },
+    {
+      "id": "snowball-pet",
+      "source_url": "https://www.playadopt.me/discover/pets/snowball-pet",
+      "official_id": "winter_2022_snowball_pet"
+    },
+    {
+      "id": "snowball-pug",
+      "source_url": "https://www.playadopt.me/discover/pets/snowball-pug",
+      "official_id": "winter_2025_snowball_pug"
+    },
+    {
+      "id": "snowman",
+      "source_url": "https://www.playadopt.me/discover/pets/snowman",
+      "official_id": "snowman"
+    },
+    {
+      "id": "snowy-mammoth",
+      "source_url": "https://www.playadopt.me/discover/pets/snowy-mammoth",
+      "official_id": "ice_dimension_2025_snowy_mammoth"
+    },
+    {
+      "id": "solaris",
+      "source_url": "https://www.playadopt.me/discover/pets/solaris",
+      "official_id": "summer_2026_solaris"
+    },
+    {
+      "id": "space-whale",
+      "source_url": "https://www.playadopt.me/discover/pets/space-whale",
+      "official_id": "space_house_2022_space_whale"
+    },
+    {
+      "id": "spider-crab",
+      "source_url": "https://www.playadopt.me/discover/pets/spider-crab",
+      "official_id": "japan_2022_spider_crab"
+    },
+    {
+      "id": "spinosaurus",
+      "source_url": "https://www.playadopt.me/discover/pets/spinosaurus",
+      "official_id": "danger_2023_spinosaurus"
+    },
+    {
+      "id": "sprout-snail",
+      "source_url": "https://www.playadopt.me/discover/pets/sprout-snail",
+      "official_id": "april_fools_2023_sprout_snail"
+    },
+    {
+      "id": "squid",
+      "source_url": "https://www.playadopt.me/discover/pets/squid",
+      "official_id": "rgb_squid"
+    },
+    {
+      "id": "st-bernard",
+      "source_url": "https://www.playadopt.me/discover/pets/st-bernard",
+      "official_id": "winter_2021_st_bernard"
+    },
+    {
+      "id": "starfish",
+      "source_url": "https://www.playadopt.me/discover/pets/starfish",
+      "official_id": "starfish"
+    },
+    {
+      "id": "starhopper",
+      "source_url": "https://www.playadopt.me/discover/pets/starhopper",
+      "official_id": "celestial_2024_starhopper"
+    },
+    {
+      "id": "starmite",
+      "source_url": "https://www.playadopt.me/discover/pets/starmite",
+      "official_id": "moon_2025_starmite"
+    },
+    {
+      "id": "stegosaurus",
+      "source_url": "https://www.playadopt.me/discover/pets/stegosaurus",
+      "official_id": "stegosaurus"
+    },
+    {
+      "id": "steppe-lion",
+      "source_url": "https://www.playadopt.me/discover/pets/steppe-lion",
+      "official_id": "winter_2022_steppe_lion"
+    },
+    {
+      "id": "stingray",
+      "source_url": "https://www.playadopt.me/discover/pets/stingray",
+      "official_id": "stingray"
+    },
+    {
+      "id": "stitches",
+      "source_url": "https://www.playadopt.me/discover/pets/stitches",
+      "official_id": "halloween_2026_stitches"
+    },
+    {
+      "id": "storm-condor",
+      "source_url": "https://www.playadopt.me/discover/pets/storm-condor",
+      "official_id": "summer_2026_storm_condor"
+    },
+    {
+      "id": "strawberry-penguin",
+      "source_url": "https://www.playadopt.me/discover/pets/strawberry-penguin",
+      "official_id": "penguins_2025_strawberry_penguin"
+    },
+    {
+      "id": "strawberry-shortcake-bat-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/strawberry-shortcake-bat-dragon",
+      "official_id": "winter_2022_strawberry_shortcake_bat_dragon"
+    },
+    {
+      "id": "strawberry-shortcake-ducky",
+      "source_url": "https://www.playadopt.me/discover/pets/strawberry-shortcake-ducky",
+      "official_id": "soggy_spring_2026_strawberry_shortcake_ducky"
+    },
+    {
+      "id": "strawberry-tortle",
+      "source_url": "https://www.playadopt.me/discover/pets/strawberry-tortle",
+      "official_id": "releaser_refresh_2026_strawberry_tortle"
+    },
+    {
+      "id": "striped-eggy",
+      "source_url": "https://www.playadopt.me/discover/pets/striped-eggy",
+      "official_id": "easter_2024_striped_eggy"
+    },
+    {
+      "id": "stygian-owl",
+      "source_url": "https://www.playadopt.me/discover/pets/stygian-owl",
+      "official_id": "summer_2026_stygian_owl"
+    },
+    {
+      "id": "subzero-scorpion",
+      "source_url": "https://www.playadopt.me/discover/pets/subzero-scorpion",
+      "official_id": "ice_dimension_2025_subzero_scorpion"
+    },
+    {
+      "id": "sugar-axolotl",
+      "source_url": "https://www.playadopt.me/discover/pets/sugar-axolotl",
+      "official_id": "ddlm_2024_sugar_axolotl"
+    },
+    {
+      "id": "sugar-glider",
+      "source_url": "https://www.playadopt.me/discover/pets/sugar-glider",
+      "official_id": "easter_2022_sugar_glider"
+    },
+    {
+      "id": "summer-walrus",
+      "source_url": "https://www.playadopt.me/discover/pets/summer-walrus",
+      "official_id": "winter_2021_summer_walrus"
+    },
+    {
+      "id": "sunflower-friend",
+      "source_url": "https://www.playadopt.me/discover/pets/sunflower-friend",
+      "official_id": "bees_wagon_2026_sunflower_friend"
+    },
+    {
+      "id": "sunglider",
+      "source_url": "https://www.playadopt.me/discover/pets/sunglider",
+      "official_id": "moon_2025_sunglider"
+    },
+    {
+      "id": "sunrise-duckling",
+      "source_url": "https://www.playadopt.me/discover/pets/sunrise-duckling",
+      "official_id": "springfest_2023_sunrise_duckling"
+    },
+    {
+      "id": "super-saru",
+      "source_url": "https://www.playadopt.me/discover/pets/super-saru",
+      "official_id": "spring_2025_super_saru"
+    },
+    {
+      "id": "sushi-penguin",
+      "source_url": "https://www.playadopt.me/discover/pets/sushi-penguin",
+      "official_id": "admin_abuse_2025_sushi_penguin"
+    },
+    {
+      "id": "swan",
+      "source_url": "https://www.playadopt.me/discover/pets/swan",
+      "official_id": "swan"
+    },
+    {
+      "id": "sweetheart-rat",
+      "source_url": "https://www.playadopt.me/discover/pets/sweetheart-rat",
+      "official_id": "valentines_2025_sweetheart_rat"
+    },
+    {
+      "id": "swordfish",
+      "source_url": "https://www.playadopt.me/discover/pets/swordfish",
+      "official_id": "basic_egg_2022_swordfish"
+    },
+    {
+      "id": "t-rex",
+      "source_url": "https://www.playadopt.me/discover/pets/t-rex",
+      "official_id": "trex"
+    },
+    {
+      "id": "tan-chow-chow",
+      "source_url": "https://www.playadopt.me/discover/pets/tan-chow-chow",
+      "official_id": "vip_2022_chow_chow_light_brown"
+    },
+    {
+      "id": "tanuki",
+      "source_url": "https://www.playadopt.me/discover/pets/tanuki",
+      "official_id": "japan_2022_tanuki"
+    },
+    {
+      "id": "tarantula",
+      "source_url": "https://www.playadopt.me/discover/pets/tarantula",
+      "official_id": "halloween_2025_spider_2"
+    },
+    {
+      "id": "tarsier",
+      "source_url": "https://www.playadopt.me/discover/pets/tarsier",
+      "official_id": "seasia_2023_tarsier"
+    },
+    {
+      "id": "tasmanian-devil",
+      "source_url": "https://www.playadopt.me/discover/pets/tasmanian-devil",
+      "official_id": "aussie_2024_tasmanian_devil"
+    },
+    {
+      "id": "tasmanian-tiger",
+      "source_url": "https://www.playadopt.me/discover/pets/tasmanian-tiger",
+      "official_id": "tasmanian_tiger"
+    },
+    {
+      "id": "tawny-frogmouth",
+      "source_url": "https://www.playadopt.me/discover/pets/tawny-frogmouth",
+      "official_id": "urban_2023_tawny_frogmouth"
+    },
+    {
+      "id": "tealwood-monster",
+      "source_url": "https://www.playadopt.me/discover/pets/tealwood-monster",
+      "official_id": "summer_2026_lake_monster"
+    },
+    {
+      "id": "tegu",
+      "source_url": "https://www.playadopt.me/discover/pets/tegu",
+      "official_id": "aztec_egg_2025_tegu"
+    },
+    {
+      "id": "temple-friend",
+      "source_url": "https://www.playadopt.me/discover/pets/temple-friend",
+      "official_id": "aztec_egg_2025_temple_friend"
+    },
+    {
+      "id": "the-black-dog",
+      "source_url": "https://www.playadopt.me/discover/pets/the-black-dog",
+      "official_id": "halloween_2025_black_dog"
+    },
+    {
+      "id": "therapy-dog",
+      "source_url": "https://www.playadopt.me/discover/pets/therapy-dog",
+      "official_id": "gosh_2022_therapy_dog"
+    },
+    {
+      "id": "thorny-devil",
+      "source_url": "https://www.playadopt.me/discover/pets/thorny-devil",
+      "official_id": "desert_2024_thorny_devil"
+    },
+    {
+      "id": "three-blind-mice",
+      "source_url": "https://www.playadopt.me/discover/pets/three-blind-mice",
+      "official_id": "fairytale_egg_2026_blind_mice"
+    },
+    {
+      "id": "ti-de-nadal",
+      "source_url": "https://www.playadopt.me/discover/pets/ti-de-nadal",
+      "official_id": "april_fools_2023_tio_de_nadal"
+    },
+    {
+      "id": "toasty-red-panda",
+      "source_url": "https://www.playadopt.me/discover/pets/toasty-red-panda",
+      "official_id": "lures_2023_toasty_red_panda"
+    },
+    {
+      "id": "tortoiseshell-guinea-pig",
+      "source_url": "https://www.playadopt.me/discover/pets/tortoiseshell-guinea-pig",
+      "official_id": "subscription_2026_tortoise_shell_guinea_pig"
+    },
+    {
+      "id": "tortuga-de-la-isla",
+      "source_url": "https://www.playadopt.me/discover/pets/tortuga-de-la-isla",
+      "official_id": "summerfest_2023_tortuga_de_la_isla"
+    },
+    {
+      "id": "toucan",
+      "source_url": "https://www.playadopt.me/discover/pets/toucan",
+      "official_id": "toucan"
+    },
+    {
+      "id": "toxic-kaijunior",
+      "source_url": "https://www.playadopt.me/discover/pets/toxic-kaijunior",
+      "official_id": "spring_2025_toxic_kaijunior"
+    },
+    {
+      "id": "toy-monkey",
+      "source_url": "https://www.playadopt.me/discover/pets/toy-monkey",
+      "official_id": "toy_monkey"
+    },
+    {
+      "id": "toy-poodle",
+      "source_url": "https://www.playadopt.me/discover/pets/toy-poodle",
+      "official_id": "urban_2023_toy_poodle"
+    },
+    {
+      "id": "trapdoor-snail",
+      "source_url": "https://www.playadopt.me/discover/pets/trapdoor-snail",
+      "official_id": "japan_2022_trapdoor_snail"
+    },
+    {
+      "id": "tree-frog",
+      "source_url": "https://www.playadopt.me/discover/pets/tree-frog",
+      "official_id": "aztec_egg_2025_jungle_frog"
+    },
+    {
+      "id": "tree-kangaroo",
+      "source_url": "https://www.playadopt.me/discover/pets/tree-kangaroo",
+      "official_id": "seasia_2023_tree_kangaroo"
+    },
+    {
+      "id": "tree-sasquatch",
+      "source_url": "https://www.playadopt.me/discover/pets/tree-sasquatch",
+      "official_id": "winter_2025_xmas_tree_sasquatch"
+    },
+    {
+      "id": "tri-horned-treehopper",
+      "source_url": "https://www.playadopt.me/discover/pets/tri-horned-treehopper",
+      "official_id": "ice_dimension_2025_trihorned_treehopper"
+    },
+    {
+      "id": "triceratops",
+      "source_url": "https://www.playadopt.me/discover/pets/triceratops",
+      "official_id": "triceratops"
+    },
+    {
+      "id": "turkey",
+      "source_url": "https://www.playadopt.me/discover/pets/turkey",
+      "official_id": "turkey"
+    },
+    {
+      "id": "turtle",
+      "source_url": "https://www.playadopt.me/discover/pets/turtle",
+      "official_id": "turtle"
+    },
+    {
+      "id": "turtle-doves",
+      "source_url": "https://www.playadopt.me/discover/pets/turtle-doves",
+      "official_id": "winter_2025_turtle_doves"
+    },
+    {
+      "id": "tuxedo-cat",
+      "source_url": "https://www.playadopt.me/discover/pets/tuxedo-cat",
+      "official_id": "what_the_fork_2026_spy_cat"
+    },
+    {
+      "id": "undead-elk",
+      "source_url": "https://www.playadopt.me/discover/pets/undead-elk",
+      "official_id": "halloween_2023_undead_elk"
+    },
+    {
+      "id": "undead-jousting-horse",
+      "source_url": "https://www.playadopt.me/discover/pets/undead-jousting-horse",
+      "official_id": "halloween_2022_undead_jousting_horse"
+    },
+    {
+      "id": "unicorn",
+      "source_url": "https://www.playadopt.me/discover/pets/unicorn",
+      "official_id": "unicorn"
+    },
+    {
+      "id": "unicorn-ducky",
+      "source_url": "https://www.playadopt.me/discover/pets/unicorn-ducky",
+      "official_id": "soggy_spring_2026_unicorn_ducky"
+    },
+    {
+      "id": "urchin",
+      "source_url": "https://www.playadopt.me/discover/pets/urchin",
+      "official_id": "ocean_2024_urchin"
+    },
+    {
+      "id": "vampire-dragon",
+      "source_url": "https://www.playadopt.me/discover/pets/vampire-dragon",
+      "official_id": "halloween_2023_vampire_dragon"
+    },
+    {
+      "id": "vanilla-penguin",
+      "source_url": "https://www.playadopt.me/discover/pets/vanilla-penguin",
+      "official_id": "penguins_2025_vanilla_penguin"
+    },
+    {
+      "id": "velociraptor",
+      "source_url": "https://www.playadopt.me/discover/pets/velociraptor",
+      "official_id": "fossil_2024_velociraptor"
+    },
+    {
+      "id": "velocirooster",
+      "source_url": "https://www.playadopt.me/discover/pets/velocirooster",
+      "official_id": "admin_abuse_egg_2026_robot_chicken"
+    },
+    {
+      "id": "vermilion-butterfly",
+      "source_url": "https://www.playadopt.me/discover/pets/vermilion-butterfly",
+      "official_id": "butterfly_2025_vermilion_butterfly"
+    },
+    {
+      "id": "villain-gibbon",
+      "source_url": "https://www.playadopt.me/discover/pets/villain-gibbon",
+      "official_id": "gibbon_2025_villain_gibbon"
+    },
+    {
+      "id": "violet-butterfly",
+      "source_url": "https://www.playadopt.me/discover/pets/violet-butterfly",
+      "official_id": "butterfly_2025_violet_butterfly"
+    },
+    {
+      "id": "violet-friend",
+      "source_url": "https://www.playadopt.me/discover/pets/violet-friend",
+      "official_id": "bees_wagon_2026_violet_friend"
+    },
+    {
+      "id": "volcanic-rhino",
+      "source_url": "https://www.playadopt.me/discover/pets/volcanic-rhino",
+      "official_id": "fire_dimension_2024_volcanic_rhino"
+    },
+    {
+      "id": "vulture",
+      "source_url": "https://www.playadopt.me/discover/pets/vulture",
+      "official_id": "desert_2024_vulture"
+    },
+    {
+      "id": "waffle-wyrm",
+      "source_url": "https://www.playadopt.me/discover/pets/waffle-wyrm",
+      "official_id": "sugarfest_2026_waffle_wyrm"
+    },
+    {
+      "id": "walrus",
+      "source_url": "https://www.playadopt.me/discover/pets/walrus",
+      "official_id": "winter_2021_walrus"
+    },
+    {
+      "id": "warthog",
+      "source_url": "https://www.playadopt.me/discover/pets/warthog",
+      "official_id": "ugc_refresh_2023_warthog"
+    },
+    {
+      "id": "water-moon-bear",
+      "source_url": "https://www.playadopt.me/discover/pets/water-moon-bear",
+      "official_id": "lny_2023_water_moon_bear"
+    },
+    {
+      "id": "water-opossum",
+      "source_url": "https://www.playadopt.me/discover/pets/water-opossum",
+      "official_id": "aztec_egg_2025_ahuizotl"
+    },
+    {
+      "id": "water-rabbit",
+      "source_url": "https://www.playadopt.me/discover/pets/water-rabbit",
+      "official_id": "lny_2023_water_rabbit"
+    },
+    {
+      "id": "weevil",
+      "source_url": "https://www.playadopt.me/discover/pets/weevil",
+      "official_id": "garden_2024_weevil"
+    },
+    {
+      "id": "werewolf",
+      "source_url": "https://www.playadopt.me/discover/pets/werewolf",
+      "official_id": "halloween_2023_werewolf"
+    },
+    {
+      "id": "white-amazon",
+      "source_url": "https://www.playadopt.me/discover/pets/white-amazon",
+      "official_id": "rain_2023_white_amazon"
+    },
+    {
+      "id": "white-choccybunny",
+      "source_url": "https://www.playadopt.me/discover/pets/white-choccybunny",
+      "official_id": "sugarfest_2026_white_choccybunny"
+    },
+    {
+      "id": "white-sand-dollar",
+      "source_url": "https://www.playadopt.me/discover/pets/white-sand-dollar",
+      "official_id": "pool_2023_white_sand_dollar"
+    },
+    {
+      "id": "wild-boar",
+      "source_url": "https://www.playadopt.me/discover/pets/wild-boar",
+      "official_id": "wild_boar"
+    },
+    {
+      "id": "wildfire-hawk",
+      "source_url": "https://www.playadopt.me/discover/pets/wildfire-hawk",
+      "official_id": "fire_dimension_2024_wildfire_hawk"
+    },
+    {
+      "id": "winged-horse",
+      "source_url": "https://www.playadopt.me/discover/pets/winged-horse",
+      "official_id": "random_pets_2022_winged_horse"
+    },
+    {
+      "id": "winged-tiger",
+      "source_url": "https://www.playadopt.me/discover/pets/winged-tiger",
+      "official_id": "lny_2023_qiongchi"
+    },
+    {
+      "id": "winter-buck",
+      "source_url": "https://www.playadopt.me/discover/pets/winter-buck",
+      "official_id": "winter_2024_winter_buck"
+    },
+    {
+      "id": "winter-doe",
+      "source_url": "https://www.playadopt.me/discover/pets/winter-doe",
+      "official_id": "winter_2024_winter_doe"
+    },
+    {
+      "id": "winter-fawn",
+      "source_url": "https://www.playadopt.me/discover/pets/winter-fawn",
+      "official_id": "winter_2024_winter_fawn"
+    },
+    {
+      "id": "wolf",
+      "source_url": "https://www.playadopt.me/discover/pets/wolf",
+      "official_id": "wolf"
+    },
+    {
+      "id": "wolpertinger",
+      "source_url": "https://www.playadopt.me/discover/pets/wolpertinger",
+      "official_id": "wolpertinger"
+    },
+    {
+      "id": "wood-pigeon",
+      "source_url": "https://www.playadopt.me/discover/pets/wood-pigeon",
+      "official_id": "springfest_2023_wood_pigeon"
+    },
+    {
+      "id": "woodpecker",
+      "source_url": "https://www.playadopt.me/discover/pets/woodpecker",
+      "official_id": "woodland_2022_woodpecker"
+    },
+    {
+      "id": "woolly-mammoth",
+      "source_url": "https://www.playadopt.me/discover/pets/woolly-mammoth",
+      "official_id": "woolly_mammoth"
+    },
+    {
+      "id": "woolly-rhino",
+      "source_url": "https://www.playadopt.me/discover/pets/woolly-rhino",
+      "official_id": "winter_2022_wooly_rhino"
+    },
+    {
+      "id": "wren",
+      "source_url": "https://www.playadopt.me/discover/pets/wren",
+      "official_id": "summerfest_2025_wren"
+    },
+    {
+      "id": "wyvern",
+      "source_url": "https://www.playadopt.me/discover/pets/wyvern",
+      "official_id": "wyvern"
+    },
+    {
+      "id": "yellow-butterfly",
+      "source_url": "https://www.playadopt.me/discover/pets/yellow-butterfly",
+      "official_id": "sanctuary_2022_yellow_bucks_butterfly"
+    },
+    {
+      "id": "yellow-lipped-sea-krait",
+      "source_url": "https://www.playadopt.me/discover/pets/yellow-lipped-sea-krait",
+      "official_id": "seasia_2023_yellow_lipped_sea_krait"
+    },
+    {
+      "id": "yeti",
+      "source_url": "https://www.playadopt.me/discover/pets/yeti",
+      "official_id": "yeti"
+    },
+    {
+      "id": "yule-log-dog",
+      "source_url": "https://www.playadopt.me/discover/pets/yule-log-dog",
+      "official_id": "april_fools_2023_yule_log_dog"
+    },
+    {
+      "id": "zebra",
+      "source_url": "https://www.playadopt.me/discover/pets/zebra",
+      "official_id": "basic_egg_2022_zebra"
+    },
+    {
+      "id": "zeopod",
+      "source_url": "https://www.playadopt.me/discover/pets/zeopod",
+      "official_id": "moon_2025_zeopod"
+    },
+    {
+      "id": "zodiac-minion-chick",
+      "source_url": "https://www.playadopt.me/discover/pets/zodiac-minion-chick",
+      "official_id": "gru_2022_zodiac_chick"
+    },
+    {
+      "id": "zombie-buffalo",
+      "source_url": "https://www.playadopt.me/discover/pets/zombie-buffalo",
+      "official_id": "zombie_buffalo"
+    },
+    {
+      "id": "zombie-chick",
+      "source_url": "https://www.playadopt.me/discover/pets/zombie-chick",
+      "official_id": "halloween_2024_zombie_chick"
+    },
+    {
+      "id": "zombie-wolf",
+      "source_url": "https://www.playadopt.me/discover/pets/zombie-wolf",
+      "official_id": "halloween_2022_zombie_wolf"
+    }
+  ]
+}
