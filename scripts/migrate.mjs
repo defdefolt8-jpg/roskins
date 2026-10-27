@@ -23,6 +23,11 @@ export async function migrate(client) {
 if (process.argv[1] && import.meta.url === pathToFileURL(resolve(process.argv[1])).href) {
   const client=new pg.Client({connectionString:process.env.DATABASE_URL});
   try { await client.connect(); await migrate(client); console.log('Schema migrations applied.'); }
-  catch { console.error('Migration failed; credentials and SQL data suppressed.');process.exitCode=1; }
+  catch (error) {
+    const code = error && typeof error === 'object' && 'code' in error ? String(error.code) : 'UNKNOWN';
+    const message = error instanceof Error ? error.message.replace(/postgres(?:ql)?:\/\/[^\s]+/gi, 'postgresql://[redacted]') : 'unknown database error';
+    console.error(`Migration failed (${code}): ${message}`);
+    process.exitCode=1;
+  }
   finally { await client.end(); }
 }
