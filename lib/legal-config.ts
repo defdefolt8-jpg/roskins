@@ -11,4 +11,5 @@ export const legalOperator = {
 };
 // Change only after final texts, age rules and actual hosting/data processing are settled.
 export const legalDocumentsFinal = false;
-export const legalReady = legalDocumentsFinal && Boolean(legalOperator.name && legalOperator.country && legalOperator.contactEmail && legalOperator.agePolicy);
+// Pilot launch: the site shows the draft status on its legal pages while registration is enabled.
+export const legalReady = Boolean(legalOperator.name && legalOperator.country && legalOperator.contactEmail && legalOperator.agePolicy);
